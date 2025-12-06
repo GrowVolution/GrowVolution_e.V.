@@ -2,7 +2,7 @@
 
 <h3>Präambel</h3>
 <p align="justify">
-  Geboren aus einer tiefen Unzufriedenheit mit dem Zustand unserer Welt und stammend aus einer Zeit der Entfremdung – einer Entfremdung von uns selbst, von einander und von der Natur,
+  Geboren aus einer tiefen Unzufriedenheit mit dem Zustand unserer Welt und stammend aus einer Zeit der Entfremdung – einer Entfremdung von uns selbst, von einander und von der Natur, 
   soll dieser Verein dem Menschen auf ewig ein Licht in der Dunkelheit sein.<br><br>
   So haben sich die Mitglieder dieses Vereins zusammengefunden, um gemeinsam Verantwortung für ihr Leben und die Gemeinschaft zu übernehmen und einen Rahmen zu erschaffen in dem sie die Chance haben frei und
   unabhängig über sich hinauswachsen können. Sie erkennen ihre eigene Rolle im Geschehen dieser Welt an und verpflichten sich damit freiwillig einem größeren Ganzen zu dienen.<br><br>
@@ -43,13 +43,13 @@
    - Aufbau gemeinschaftlich genutzter Infrastruktur (z. B. Fahrzeuge, Räume, Werkzeuge),
    - Förderung der Entwicklungszusammenarbeit durch Unterstützung von Bildungs-, Gesundheits-, Infrastruktur- und Selbsthilfeprojekten in Entwicklungs- und Schwellenländern,
      insbesondere durch Wissensvermittlung, Kapazitätsaufbau, Bereitstellung von Schulungsmaterialien sowie die Förderung gemeinwohlorientierter lokaler Strukturen,
-   - Unterstützung von gemeinwohlorientierten Initiativen in Entwicklungs- und Schwellenländern, die zur Verbesserung der Lebensbedingungen, Stärkung lokaler Fähigkeiten
+   - nterstützung von gemeinwohlorientierten Initiativen in Entwicklungs- und Schwellenländern, die zur Verbesserung der Lebensbedingungen, Stärkung lokaler Fähigkeiten
      und zur Förderung nachhaltiger, unabhängiger Strukturen beitragen,
    - Förderung, Organisation und Moderation von politischem und gesellschaftlichem Austausch als überparteiliche Bildungsarbeit zur Stärkung allgemeiner Bildung
-     und einer werteorientierten, respektvollen und diskriminierungsfreien Kommunikation; insbesondere durch Interviews, Diskursformate und die Moderation von Communities
-     auf neutralem, wertegebundenem Boden. Parteipolitische Betätigung findet nicht statt.
-3. Der Verein ist sich bewusst, dass er in der Aufbauphase nicht alle Zwecke vollumfänglich verwirklichen kann; wie die Verwirklichung intern konkret priorisiert,
-   organisiert und koordiniert wird, regelt eine Zweckordnung.
+     und einer werteorientierten, respektvollen und diskriminierungsfreien Kommunikation; insbesondere durch Interviews, Diskursformate und die Moderation von Communities auf neutralem, wertegebundenem Boden.
+     Parteipolitische Betätigung findet nicht statt.
+3. Der Verein ist sich bewusst, dass er in der Aufbauphase nicht alle Zwecke vollumfänglich verwirklichen kann;
+   wie die Verwirklichung intern konkret priorisiert, organisiert und koordiniert wird, regelt eine Zweckordnung.
 4. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne der §§ 51 ff. AO.
 5. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
@@ -75,13 +75,13 @@
 ### § 5 Organe
 1. Organe des Vereins sind:
    - die Mitgliederversammlung (in Präsenz, hybrid oder virtuell),
-   - der Mitgliederrat,
+   - der Mitgliederrat
    - der Vorstand.
 
 ### § 5a Dezentrale Organisation und Hierarchieabbau
 1. Der Verein organisiert sich dezentral in Arbeitskreisen und Projekten. Delegation begründet keine hierarchische Überordnung; sie ist ein Mandat mit Berichtspflicht gegenüber der Mitgliederversammlung.
 2. Transparenz und Rechenschaft erfolgen über geeignete digitale und analoge Dokumentationswege.
-3. Essentielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend; er trifft keine eigenständigen Grundsatz-,
+3. Essentielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend, er trifft keine eigenständigen Grundsatz-,
    sowie größere Finanz- oder Ressourcenentscheidungen.
 
 ### § 6 Mitgliederversammlung
@@ -96,34 +96,37 @@
 1. Unabhängig von § 6 können Beschlüsse ohne Versammlung im Umlaufverfahren gefasst werden – postalisch oder in Text-/Elektronikform.
 2. Die Identitäts- und Willensbestätigung erfolgt nach § 6 Abs. 5.
 3. Die Frist zur Stimmabgabe beträgt grundsätzlich 7 Tage.
-4. Bei geringer Mitgliederbeteiligung (weniger als 1/2) werden die Stimmen des Mitgliederrates mit einem Faktor von 2/3 stärker gewichtet.
+4. Ist ein Mitgliederrat eingesetzt, so werden seine Stimmen bei geringer Mitgliederbeteiligung (weniger als 1/2) mit einem Faktor von 2/3 stärker gewichtet.
 5. Für alle Umlaufbeschlüsse gilt dieselbe einfache Mehrheit wie in § 6 Abs. 3.
 6. Das Ergebnis wird den Mitgliedern in Text- oder Elektronikform bekanntgegeben und protokolliert.
 
 ### § 7 Mitgliederrat
-1. Der Mitgliederrat ist ein optionales Organ des Vereins; seine Mitglieder werden durch die Mitgliederversammlung bestimmt. Genaueres regelt die Mitgliederratsordnung.
-2. Der Rat besteht aus aktiven Mitgliedern und dient dem Abbau hierarchischer Strukturen gemäß § 5a bei gleichzeitiger Sicherstellung der Handlungsfähigkeit.
-3. Er kann bei größeren Angelegenheiten, die eine schnelle Entscheidung erfordern, vom Vorstand herangezogen werden, um in Vertretung für die Mitgliederversammlung eine Entscheidung zu treffen.
+1. Der Mitgliederrat ist ein optionales Organ des Vereins; seine Mitglieder werden durch ein elektronisches Auslosungsverfahren bestimmt.
+2. Er kann bei größeren Angelegenheiten, die eine schnelle Entscheidung erfordern, vom Vorstand herangezogen werden, um in Vertretung für die Mitgliederversammlung eine Entscheidung zu treffen.
+3. Genaueres regelt eine Mitgliederratsordnung.
 
 ### § 8 Vorstand
 1. Der Vorstand besteht aus mindestens 2 und maximal 5 Mitgliedern:
-   - 1. Vorstand  
-   - 2. Vorstand  
-   - Kassenwart (optional)  
-   - Schriftführer (optional)  
+   - 1\. Vorstand
+   - 2\. Vorstand
+   - Kassenwart (optional)
+   - Schriftführer (optional)
    - ständige Vertretung (optional)
-2. Die Aufgabenverteilung wird basierend auf der Besetzung durch eine Vorstandsordnung geregelt.
-3. Wahl durch die Mitgliederversammlung für drei Jahre; Wiederwahl zulässig. Der Vorstand bleibt bis zur Neuwahl im Amt.
-4. Vertretung des Vereins gerichtlich und außergerichtlich durch zwei Vorstandsmitglieder gemeinsam (§ 26 BGB).
-5. Der Vorstand repräsentiert und koordiniert die laufenden Geschäfte, bereitet Beschlussvorlagen vor, initiiert Abstimmungen und setzt Mitgliederbeschlüsse um.
+2. Wahl durch die Mitgliederversammlung für drei Jahre; Wiederwahl zulässig. Der Vorstand bleibt bis zur Neuwahl im Amt.
+3. Vertretung des Vereins gerichtlich und außergerichtlich durch zwei Vorstandsmitglieder gemeinsam (§ 26 BGB).
+4. Der Vorstand repräsentiert und koordiniert die laufenden Geschäfte, bereitet Beschlussvorlagen vor, initiiert Abstimmungen und setzt Mitgliederbeschlüsse um.
 5. Der Vorstand ist verpflichtet alle seine operativen und eigenständig getroffenen Entscheidungen unaufgefordert gegenüber der Mitgliederversammlung transparent zu machen.
-7. Die Ämter sind ehrenamtlich; Auslagenersatz ist zulässig. Vergütungen bedürfen eines 2/3-Beschlusses der Mitgliederversammlung und müssen angemessen sein.
-8. Vorstandsmitglieder haben jederzeit das Recht abzudanken. Sie sind jedoch verpflichtet die Mitgliederversammlung rechtzeitig über eine solche Entscheidung in Kenntnis zu setzen und bleiben im Amt bis ein Ersatz gewählt wurde.
+6. Die Ämter sind ehrenamtlich; Auslagenersatz ist zulässig. Vergütungen bedürfen eines 2/3-Beschlusses der Mitgliederversammlung und müssen angemessen sein.
+7. Vorstandsmitglieder haben jederzeit das Recht abzudanken; sie sind jedoch verpflichtet die Mitgliederversammlung rechtzeitig über eine solche Entscheidung in Kenntnis zu setzen.
+8. Wird während einer Amtsperiode ein Vorstandsposten frei, ist die Mitgliederversammlung verpflichtet für die restliche Amtszeit einen Ersatz zu wählen;
+   sollte die erforderliche Anzahl an Vorstandsmitgliedern nicht unterschritten werden, so kann die Mitgliederversammlung sich gegen eine Neubesetzung des Postens entscheiden.
+9. Genaueres regelt eine Vorstandsordnung.
 
 ### § 8a Misstrauensvotum & Amtsenthebung
 1. Ein Vorstandsmitglied kann durch die Mitgliederversammlung über ein Misstrauensvotum mit einer 2/3-Mehrheit aus seinem Amt enthoben werden.
-2. Wird die Anzahl der erforderlichen Vorstandsmitglieder dadurch unterschritten, ist die Mitgliederversammlung verpflichtet für die restliche Amtszeit des aktuellen Vorstandes einen Ersatz zu wählen.
-   Andernfalls werden die Aufgaben unter den verbleibenden Vorstandsmitgliedern gemäß Vorstandsordnung verteilt.
+2. Bei Initiation eines Misstrauensvotums, wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; sollte dadurch der reguläre Betrieb des Vereins beeinträchtigt werden,
+   so wird der Posten für die Dauer der Freistellung von einem von der Mitgliederversammlung bestimmten Ersatz vertreten.
+3. Ist das Votum erfolgreich, wird gemäß § 8 Abs. 8 der Satzung verfahren.
 
 ### § 9 Auflösung und Vermögensbindung
 1. Die Auflösung kann nur durch Mitgliederversammlung oder Umlaufbeschluss mit 4/5-Mehrheit beschlossen werden.

@@ -2,11 +2,11 @@
 
 <h3>Präambel</h3>
 <p align="justify">
-  Geboren aus einer tiefen Unzufriedenheit mit dem Zustand unserer Welt und stammend aus einer Zeit der Entfremdung – einer Entfremdung von uns selbst, von einander und von der Natur, 
+  Geboren aus einer tiefen Unzufriedenheit mit dem Zustand unserer Welt und stammend aus einer Zeit der Entfremdung – einer Entfremdung von uns selbst, voneinander und von der Natur,
   soll dieser Verein dem Menschen auf ewig ein Licht in der Dunkelheit sein.<br><br>
-  So haben sich die Mitglieder dieses Vereins zusammengefunden, um gemeinsam Verantwortung für ihr Leben und die Gemeinschaft zu übernehmen und einen Rahmen zu erschaffen in dem sie die Chance haben frei und
-  unabhängig über sich hinauswachsen können. Sie erkennen ihre eigene Rolle im Geschehen dieser Welt an und verpflichten sich damit freiwillig einem größeren Ganzen zu dienen.<br><br>
-  Wir richten den erhobenen Zeigefinger nun wieder auf uns und lassen unser altes Urteil los. Denn wir sind Menschen und als Menschen fehlbar. Mit diesem Eingeständnis erlauben wir uns Strukturen zu entwerfen,
+  So haben sich die Mitglieder dieses Vereins zusammengefunden, um gemeinsam Verantwortung für ihr Leben und die Gemeinschaft zu übernehmen und einen Rahmen zu erschaffen, in dem sie die Chance haben, frei und
+  unabhängig über sich hinauswachsen zu können. Sie erkennen ihre eigene Rolle im Geschehen dieser Welt an und verpflichten sich damit freiwillig einem größeren Ganzen zu dienen.<br><br>
+  Wir richten den erhobenen Zeigefinger nun wieder auf uns und lassen unser altes Urteil los. Denn wir sind Menschen und als Menschen fehlbar. Mit diesem Eingeständnis erlauben wir uns, Strukturen zu entwerfen,
   die unsere eigene Fehlbarkeit abfedern.
 </p>
 <p align="center">
@@ -43,7 +43,7 @@
    - Aufbau gemeinschaftlich genutzter Infrastruktur (z. B. Fahrzeuge, Räume, Werkzeuge),
    - Förderung der Entwicklungszusammenarbeit durch Unterstützung von Bildungs-, Gesundheits-, Infrastruktur- und Selbsthilfeprojekten in Entwicklungs- und Schwellenländern,
      insbesondere durch Wissensvermittlung, Kapazitätsaufbau, Bereitstellung von Schulungsmaterialien sowie die Förderung gemeinwohlorientierter lokaler Strukturen,
-   - nterstützung von gemeinwohlorientierten Initiativen in Entwicklungs- und Schwellenländern, die zur Verbesserung der Lebensbedingungen, Stärkung lokaler Fähigkeiten
+   - Unterstützung von gemeinwohlorientierten Initiativen in Entwicklungs- und Schwellenländern, die zur Verbesserung der Lebensbedingungen, Stärkung lokaler Fähigkeiten
      und zur Förderung nachhaltiger, unabhängiger Strukturen beitragen,
    - Förderung, Organisation und Moderation von politischem und gesellschaftlichem Austausch als überparteiliche Bildungsarbeit zur Stärkung allgemeiner Bildung
      und einer werteorientierten, respektvollen und diskriminierungsfreien Kommunikation; insbesondere durch Interviews, Diskursformate und die Moderation von Communities auf neutralem, wertegebundenem Boden.
@@ -75,13 +75,13 @@
 ### § 5 Organe
 1. Organe des Vereins sind:
    - die Mitgliederversammlung (in Präsenz, hybrid oder virtuell),
-   - der Mitgliederrat
+   - der Mitgliederrat,
    - der Vorstand.
 
 ### § 5a Dezentrale Organisation und Hierarchieabbau
 1. Der Verein organisiert sich dezentral in Arbeitskreisen und Projekten. Delegation begründet keine hierarchische Überordnung; sie ist ein Mandat mit Berichtspflicht gegenüber der Mitgliederversammlung.
 2. Transparenz und Rechenschaft erfolgen über geeignete digitale und analoge Dokumentationswege.
-3. Essentielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend, er trifft keine eigenständigen Grundsatz-,
+3. Essentielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend; er trifft keine eigenständigen Grundsatz-,
    sowie größere Finanz- oder Ressourcenentscheidungen.
 
 ### § 6 Mitgliederversammlung
@@ -115,16 +115,16 @@
 2. Wahl durch die Mitgliederversammlung für drei Jahre; Wiederwahl zulässig. Der Vorstand bleibt bis zur Neuwahl im Amt.
 3. Vertretung des Vereins gerichtlich und außergerichtlich durch zwei Vorstandsmitglieder gemeinsam (§ 26 BGB).
 4. Der Vorstand repräsentiert und koordiniert die laufenden Geschäfte, bereitet Beschlussvorlagen vor, initiiert Abstimmungen und setzt Mitgliederbeschlüsse um.
-5. Der Vorstand ist verpflichtet alle seine operativen und eigenständig getroffenen Entscheidungen unaufgefordert gegenüber der Mitgliederversammlung transparent zu machen.
+5. Der Vorstand ist verpflichtet, alle seine operativen und eigenständig getroffenen Entscheidungen unaufgefordert gegenüber der Mitgliederversammlung transparent zu machen.
 6. Die Ämter sind ehrenamtlich; Auslagenersatz ist zulässig. Vergütungen bedürfen eines 2/3-Beschlusses der Mitgliederversammlung und müssen angemessen sein.
-7. Vorstandsmitglieder haben jederzeit das Recht abzudanken; sie sind jedoch verpflichtet die Mitgliederversammlung rechtzeitig über eine solche Entscheidung in Kenntnis zu setzen.
-8. Wird während einer Amtsperiode ein Vorstandsposten frei, ist die Mitgliederversammlung verpflichtet für die restliche Amtszeit einen Ersatz zu wählen;
+7. Vorstandsmitglieder haben jederzeit das Recht abzudanken; sie sind jedoch verpflichtet, die Mitgliederversammlung rechtzeitig über eine solche Entscheidung in Kenntnis zu setzen.
+8. Wird während einer Amtsperiode ein Vorstandsposten frei, ist die Mitgliederversammlung verpflichtet, für die restliche Amtszeit einen Ersatz zu wählen;
    sollte die erforderliche Anzahl an Vorstandsmitgliedern nicht unterschritten werden, so kann die Mitgliederversammlung sich gegen eine Neubesetzung des Postens entscheiden.
 9. Genaueres regelt eine Vorstandsordnung.
 
 ### § 8a Misstrauensvotum & Amtsenthebung
 1. Ein Vorstandsmitglied kann durch die Mitgliederversammlung über ein Misstrauensvotum mit einer 2/3-Mehrheit aus seinem Amt enthoben werden.
-2. Bei Initiation eines Misstrauensvotums, wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; sollte dadurch der reguläre Betrieb des Vereins beeinträchtigt werden,
+2. Bei Initiation eines Misstrauensvotums wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; sollte dadurch der reguläre Betrieb des Vereins beeinträchtigt werden,
    so wird der Posten für die Dauer der Freistellung von einem von der Mitgliederversammlung bestimmten Ersatz vertreten.
 3. Ist das Votum erfolgreich, wird gemäß § 8 Abs. 8 der Satzung verfahren.
 

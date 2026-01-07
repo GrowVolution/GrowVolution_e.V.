@@ -14,4 +14,4 @@ To keep the developement of our internal architecture clean, we want to provide 
 - To reduce the barriers of our international audience, we are preffering english repositories. But scince our associationn is (currently not finally) registered in germany, the original documents were created in german. English versions are translated by AI.
 
 ---
-**GrowVolution e.V. 2025-2026 - A new beginning ✨**
+**GrowVolution e.V. 2025 - A new beginning ✨**

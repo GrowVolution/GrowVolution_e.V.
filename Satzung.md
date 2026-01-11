@@ -130,8 +130,7 @@
 
 ### § 9 Auflösung und Vermögensbindung
 1. Die Auflösung kann nur durch Mitgliederversammlung oder Umlaufbeschluss mit 4/5-Mehrheit beschlossen werden.
-2. Bei Auflösung oder Aufhebung oder Wegfall steuerbegünstigter Zwecke fällt das Vermögen an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft
-   zur Verwendung für die Förderung der Volks- und Berufsbildung im Sinne der AO.
+2. Bei Auflösung oder Aufhebung oder Wegfall steuerbegünstigter Zwecke fällt das Vermögen an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft für die Verwendung der in § 2 Abs. 1 genannten Zwecke im Sinne der AO.
 
 ### § 10 Regelwerke und Ordnungen
 1. Die Mitgliederversammlung kann ergänzende Ordnungen beschließen.

@@ -126,8 +126,7 @@
 
 ### § 9 Dissolution and Allocation of Assets
 1. Dissolution may only be resolved by the general assembly or by circulation resolution with a 4/5 majority.
-2. In the event of dissolution, annulment, or loss of charitable status, the association’s assets shall fall to a legal entity under public law or another charitable organization
-   for use in promoting popular and vocational education within the meaning of the German Fiscal Code.
+2. In the event of dissolution, annulment, or loss of charitable status, the association’s assets shall fall to a legal entity under public law or another charitable organization for use in promoting the purposes named in § 2 para. 1 within the meaning of the German Fiscal Code.
 
 ### § 10 Regulations and Orders
 1. The general assembly may issue supplementary orders.

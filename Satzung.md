@@ -23,8 +23,7 @@
 1. Zweck des Vereins ist:
    - die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe,
    - die Förderung der Entwicklungszusammenarbeit,
-   - die allgemeine Förderung des demokratischen Staatswesens im Geltungsbereich dieses Gesetzes; hierzu gehören nicht Bestrebungen,
-     die nur bestimmte Einzelinteressen staatsbürgerlicher Art verfolgen oder die auf den kommunalpolitischen Bereich beschränkt sind,
+   - die allgemeine Förderung des demokratischen Staatswesens im Geltungsbereich dieses Gesetzes; hierzu gehören nicht Bestrebungen, die nur bestimmte Einzelinteressen staatsbürgerlicher Art verfolgen oder die auf den kommunalpolitischen Bereich beschränkt sind,
    - die Förderung des bürgerschaftlichen Engagements zugunsten gemeinnütziger und mildtätiger Zwecke,
    - die Förderung von Wissenschaft und Forschung.
 2. Der Satzungszweck wird insbesondere verwirklicht durch:
@@ -45,11 +44,8 @@
      insbesondere durch Wissensvermittlung, Kapazitätsaufbau, Bereitstellung von Schulungsmaterialien sowie die Förderung gemeinwohlorientierter lokaler Strukturen,
    - Unterstützung von gemeinwohlorientierten Initiativen in Entwicklungs- und Schwellenländern, die zur Verbesserung der Lebensbedingungen, Stärkung lokaler Fähigkeiten
      und zur Förderung nachhaltiger, unabhängiger Strukturen beitragen,
-   - Förderung, Organisation und Moderation von politischem und gesellschaftlichem Austausch als überparteiliche Bildungsarbeit zur Stärkung allgemeiner Bildung
-     und einer werteorientierten, respektvollen und diskriminierungsfreien Kommunikation; insbesondere durch Interviews, Diskursformate und die Moderation von Communities auf neutralem, wertegebundenem Boden.
-     Parteipolitische Betätigung findet nicht statt.
-3. Der Verein ist sich bewusst, dass er in der Aufbauphase nicht alle Zwecke vollumfänglich verwirklichen kann;
-   wie die Verwirklichung intern konkret priorisiert, organisiert und koordiniert wird, regelt eine Zweckordnung.
+   - Förderung, Organisation und Moderation von politischem und gesellschaftlichem Austausch als überparteiliche Bildungsarbeit zur Stärkung allgemeiner Bildung und einer werteorientierten, respektvollen und diskriminierungsfreien Kommunikation; insbesondere durch Interviews, Diskursformate und die Moderation von Communities auf neutralem, wertegebundenem Boden Parteipolitische Betätigung findet nicht statt.
+3. Der Verein ist sich bewusst, dass er in der Aufbauphase nicht alle Zwecke vollumfänglich verwirklichen kann; wie die Verwirklichung intern konkret priorisiert, organisiert und koordiniert wird, regelt eine Zweckordnung.
 4. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne der §§ 51 ff. AO.
 5. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
@@ -81,16 +77,14 @@
 ### § 5a Dezentrale Organisation und Hierarchieabbau
 1. Der Verein organisiert sich dezentral in Arbeitskreisen und Projekten. Delegation begründet keine hierarchische Überordnung; sie ist ein Mandat mit Berichtspflicht gegenüber der Mitgliederversammlung.
 2. Transparenz und Rechenschaft erfolgen über geeignete digitale und analoge Dokumentationswege.
-3. Essentielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend; er trifft keine eigenständigen Grundsatz-,
-   sowie größere Finanz- oder Ressourcenentscheidungen.
+3. Essentielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend; er trifft keine eigenständigen Grundsatz-, sowie größere Finanz- oder Ressourcenentscheidungen.
 
 ### § 6 Mitgliederversammlung
 1. Die Mitgliederversammlung kann als Präsenz-, Hybrid- oder Online-Versammlung durchgeführt werden.
 2. Einladung mit Frist von zwei Wochen per E-Mail/Plattformbenachrichtigung oder postalisch; Tagesordnung wird im Mitgliederbereich oder per Schreiben bekanntgegeben.
 3. Beschlüsse werden mit einfacher Mehrheit gefasst, sofern diese Satzung nichts anderes vorsieht.
 4. Die Versammlung wird schriftlich oder elektronisch protokolliert.
-5. Teilnahme- und Stimmrechtsprüfung erfolgen durch geeignete Verfahren, darunter persönliche Anwesenheit, eigenhändige Unterschrift, Zwei-Faktor-Verfahren, eID oder vom Verein bereitgestellte
-   fortgeschrittene elektronische Signatursysteme.
+5. Teilnahme- und Stimmrechtsprüfung erfolgen durch geeignete Verfahren, darunter persönliche Anwesenheit, eigenhändige Unterschrift, Zwei-Faktor-Verfahren, eID oder vom Verein bereitgestellte fortgeschrittene elektronische Signatursysteme.
 
 ### § 6a Beschlüsse außerhalb einer Versammlung (Umlaufverfahren)
 1. Unabhängig von § 6 können Beschlüsse ohne Versammlung im Umlaufverfahren gefasst werden – postalisch oder in Text-/Elektronikform.
@@ -118,14 +112,12 @@
 5. Der Vorstand ist verpflichtet, alle seine operativen und eigenständig getroffenen Entscheidungen unaufgefordert gegenüber der Mitgliederversammlung transparent zu machen.
 6. Die Ämter sind ehrenamtlich; Auslagenersatz ist zulässig. Vergütungen bedürfen eines 2/3-Beschlusses der Mitgliederversammlung und müssen angemessen sein.
 7. Vorstandsmitglieder haben jederzeit das Recht abzudanken; sie sind jedoch verpflichtet, die Mitgliederversammlung rechtzeitig über eine solche Entscheidung in Kenntnis zu setzen.
-8. Wird während einer Amtsperiode ein Vorstandsposten frei, ist die Mitgliederversammlung verpflichtet, für die restliche Amtszeit einen Ersatz zu wählen;
-   sollte die erforderliche Anzahl an Vorstandsmitgliedern nicht unterschritten werden, so kann die Mitgliederversammlung sich gegen eine Neubesetzung des Postens entscheiden.
+8. Wird während einer Amtsperiode ein Vorstandsposten frei, ist die Mitgliederversammlung verpflichtet, für die restliche Amtszeit einen Ersatz zu wählen; sollte die erforderliche Anzahl an Vorstandsmitgliedern nicht unterschritten werden, so kann die Mitgliederversammlung sich gegen eine Neubesetzung des Postens entscheiden.
 9. Genaueres regelt eine Vorstandsordnung.
 
 ### § 8a Misstrauensvotum & Amtsenthebung
 1. Ein Vorstandsmitglied kann durch die Mitgliederversammlung über ein Misstrauensvotum mit einer 2/3-Mehrheit aus seinem Amt enthoben werden.
-2. Bei Initiation eines Misstrauensvotums wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; sollte dadurch der reguläre Betrieb des Vereins beeinträchtigt werden,
-   so wird der Posten für die Dauer der Freistellung von einem von der Mitgliederversammlung bestimmten Ersatz vertreten.
+2. Bei Initiation eines Misstrauensvotums wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; sollte dadurch der reguläre Betrieb des Vereins beeinträchtigt werden, so wird der Posten für die Dauer der Freistellung von einem von der Mitgliederversammlung bestimmten Ersatz vertreten.
 3. Ist das Votum erfolgreich, wird gemäß § 8 Abs. 8 der Satzung verfahren.
 
 ### § 9 Auflösung und Vermögensbindung

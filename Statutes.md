@@ -40,13 +40,9 @@
    - support and promotion of alternative educational concepts, in particular integrative schools based on humanistic and reform-pedagogical approaches,
    - support for the development of solidarity-based, non-profit-oriented financial structures,
    - development of jointly used infrastructure (e.g., vehicles, spaces, tools),
-   - promotion of development cooperation through support of educational, health, infrastructure, and self-help projects in developing and emerging countries,
-     in particular through knowledge transfer, capacity building, provision of training materials, and support for community-oriented local structures,
-   - support for community-oriented initiatives in developing and emerging countries that contribute to improving living conditions, strengthening local capacities,
-     and fostering sustainable, independent structures,
-   - promotion, organization, and moderation of political and social exchange as non-partisan educational work to strengthen general education
-     and value-oriented, respectful, and discrimination-free communication; in particular through interviews, discussion formats, and moderation of communities on a neutral, value-driven basis.
-     Political party activities do not take place.
+   - promotion of development cooperation through support of educational, health, infrastructure, and self-help projects in developing and emerging countries, in particular through knowledge transfer, capacity building, provision of training materials, and support for community-oriented local structures,
+   - support for community-oriented initiatives in developing and emerging countries that contribute to improving living conditions, strengthening local capacities, and fostering sustainable, independent structures,
+   - promotion, organization, and moderation of political and social exchange as non-partisan educational work to strengthen general education and value-oriented, respectful, and discrimination-free communication; in particular through interviews discussion formats, and moderation of communities on a neutral, value-driven basis. Political party activities do not take place.
 3. The association is aware that in the development phase it cannot fully realize all purposes; how the fulfillment is internally prioritized, organized, and coordinated is regulated by a purpose order.
 4. The association pursues exclusively and directly charitable purposes within the meaning of §§ 51 ff. AO (German Fiscal Code).
 5. The association is selfless; it does not primarily pursue its own economic purposes.
@@ -114,14 +110,12 @@
 5. The board is obliged to disclose all operational and independently made decisions to the general assembly without being asked.
 6. Offices are honorary; reimbursement of expenses is permissible. Remuneration requires a 2/3 majority of the general assembly and must be reasonable.
 7. Board members may resign at any time; however, they are obligated to inform the general assembly in due time.
-8. If a board position becomes vacant during a term, the general assembly is obligated to elect a replacement for the remainder of the term;
-   if the required minimum number of board members is not undercut, the general assembly may decide not to fill the vacant position.
+8. If a board position becomes vacant during a term, the general assembly is obligated to elect a replacement for the remainder of the term; if the required minimum number of board members is not undercut, the general assembly may decide not to fill the vacant position.
 9. Further details are regulated by a board order.
 
 ### § 8a Vote of No Confidence & Removal from Office
 1. A board member may be removed from office by a 2/3 majority vote of no confidence by the general assembly.
-2. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; should this impair the regular operation of the association,
-   the position shall be represented for the duration of the suspension by a substitute appointed by the general assembly.
+2. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; should this impair the regular operation of the association, the position shall be represented for the duration of the suspension by a substitute appointed by the general assembly.
 3. If the vote is successful, § 8 para. 8 of the statutes applies.
 
 ### § 9 Dissolution and Allocation of Assets

@@ -103,6 +103,7 @@
    - 2nd chairperson
    - treasurer (optional)
    - secretary (optional)
+   - data-protection officer (optional)
    - permanent representative (optional)
 2. Election by the general assembly for three years; re-election permitted. The board remains in office until a new election takes place.
 3. The association is represented in and out of court jointly by the first and second board members (§ 26 German Civil Code). The general assembly may elect a permanent representative who is authorized to represent the association in place of the first or second board member.

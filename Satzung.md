@@ -105,6 +105,7 @@
    - 2\. Vorstand
    - Kassenwart (optional)
    - Schriftführer (optional)
+   - Datenschutzbeauftragter (optional)
    - ständige Vertretung (optional)
 2. Wahl durch die Mitgliederversammlung für drei Jahre; Wiederwahl zulässig. Der Vorstand bleibt bis zur Neuwahl im Amt.
 3. Vertretung des Vereins gerichtlich und außergerichtlich durch den 1. und 2. Vorstand gemeinsam (§ 26 BGB). Die Mitgliederversammlung kann eine ständige Vertretung wählen, die anstelle des 1. oder 2. Vorstandes vertretungsberechtigt ist.

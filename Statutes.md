@@ -105,7 +105,7 @@
    - secretary (optional)
    - permanent representative (optional)
 2. Election by the general assembly for three years; re-election permitted. The board remains in office until a new election takes place.
-3. The association is represented judicially and extrajudicially by two board members jointly (§ 26 BGB).
+3. The association is represented in and out of court jointly by the first and second board members (§ 26 German Civil Code). The general assembly may elect a permanent representative who is authorized to represent the association in place of the first or second board member.
 4. The board represents and coordinates ongoing operations, prepares resolution proposals, initiates voting processes, and implements members’ resolutions.
 5. The board is obliged to disclose all operational and independently made decisions to the general assembly without being asked.
 6. Offices are honorary; reimbursement of expenses is permissible. Remuneration requires a 2/3 majority of the general assembly and must be reasonable.

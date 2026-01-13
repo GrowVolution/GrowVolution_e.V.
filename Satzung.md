@@ -107,7 +107,7 @@
    - Schriftführer (optional)
    - ständige Vertretung (optional)
 2. Wahl durch die Mitgliederversammlung für drei Jahre; Wiederwahl zulässig. Der Vorstand bleibt bis zur Neuwahl im Amt.
-3. Vertretung des Vereins gerichtlich und außergerichtlich durch zwei Vorstandsmitglieder gemeinsam (§ 26 BGB).
+3. Vertretung des Vereins gerichtlich und außergerichtlich durch den 1. und 2. Vorstand gemeinsam (§ 26 BGB). Die Mitgliederversammlung kann eine ständige Vertretung wählen, die anstelle des 1. oder 2. Vorstandes vertretungsberechtigt ist.
 4. Der Vorstand repräsentiert und koordiniert die laufenden Geschäfte, bereitet Beschlussvorlagen vor, initiiert Abstimmungen und setzt Mitgliederbeschlüsse um.
 5. Der Vorstand ist verpflichtet, alle seine operativen und eigenständig getroffenen Entscheidungen unaufgefordert gegenüber der Mitgliederversammlung transparent zu machen.
 6. Die Ämter sind ehrenamtlich; Auslagenersatz ist zulässig. Vergütungen bedürfen eines 2/3-Beschlusses der Mitgliederversammlung und müssen angemessen sein.

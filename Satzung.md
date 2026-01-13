@@ -100,7 +100,7 @@
 3. Genaueres regelt eine Mitgliederratsordnung.
 
 ### § 8 Vorstand
-1. Der Vorstand besteht aus mindestens 2 und maximal 5 Mitgliedern:
+1. Der Vorstand besteht aus mindestens 2 und maximal 6 Mitgliedern:
    - 1\. Vorstand
    - 2\. Vorstand
    - Kassenwart (optional)

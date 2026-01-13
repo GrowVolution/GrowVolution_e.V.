@@ -98,7 +98,7 @@
 3. Further details are regulated by a members’ council order.
 
 ### § 8 Board
-1. The board consists of at least 2 and at most 5 members:
+1. The board consists of at least 2 and at most 6 members:
    - 1st chairperson
    - 2nd chairperson
    - treasurer (optional)

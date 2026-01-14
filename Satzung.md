@@ -21,7 +21,7 @@
 
 ### § 2 Zweck des Vereins
 1. Zweck des Vereins ist:
-   - die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe,
+   - die Förderung der Erziehung, Volks- und Berufsbildung, einschließlich der Studentenhilfe,
    - die Förderung der Entwicklungszusammenarbeit,
    - die allgemeine Förderung des demokratischen Staatswesens im Geltungsbereich dieses Gesetzes; hierzu gehören nicht Bestrebungen, die nur bestimmte Einzelinteressen staatsbürgerlicher Art verfolgen oder die auf den kommunalpolitischen Bereich beschränkt sind,
    - die Förderung des bürgerschaftlichen Engagements zugunsten gemeinnütziger und mildtätiger Zwecke,
@@ -30,8 +30,8 @@
    - Bereitstellung von Infrastruktur zur Selbstreflexion, Zielverfolgung und persönlichen Entwicklung,
    - Förderung von Achtsamkeit, Selbstverantwortung und zwischenmenschlicher Unterstützung,
    - Organisation und Durchführung digitaler und physischer Bildungsformate, Challenges, Workshops und Projekte,
-   - Unterstützung bei finanzieller Selbstorganisation einschließlich Hilfe bei Entschuldung und Strukturierung,
-   - Aufbau einer wachstumsorientierten, wertegetragenen Community ohne Werbung, Ablenkung oder Suchtmechanismen,
+   - Unterstützung bei finanzieller Selbstorganisation, einschließlich Hilfe bei Entschuldung und Strukturierung,
+   - Aufbau einer wachstumsorientierten, Werte getragenen Community ohne Werbung, Ablenkung oder Suchtmechanismen,
    - Organisation von Forschungs- und Förderprojekten in gesellschaftlich, politisch, wirtschaftlich oder wissenschaftlich relevanten Themenfeldern,
    - Unterstützung der Entwicklung, Produktion und Verbreitung nachhaltiger, gesundheitsförderlicher und sozialverträglicher Produkte,
    - Förderung lokaler, ressourcenschonender und kreislauforientierter Infrastrukturen,
@@ -44,7 +44,7 @@
      insbesondere durch Wissensvermittlung, Kapazitätsaufbau, Bereitstellung von Schulungsmaterialien sowie die Förderung gemeinwohlorientierter lokaler Strukturen,
    - Unterstützung von gemeinwohlorientierten Initiativen in Entwicklungs- und Schwellenländern, die zur Verbesserung der Lebensbedingungen, Stärkung lokaler Fähigkeiten
      und zur Förderung nachhaltiger, unabhängiger Strukturen beitragen,
-   - Förderung, Organisation und Moderation von politischem und gesellschaftlichem Austausch als überparteiliche Bildungsarbeit zur Stärkung allgemeiner Bildung und einer werteorientierten, respektvollen und diskriminierungsfreien Kommunikation; insbesondere durch Interviews, Diskursformate und die Moderation von Communities auf neutralem, wertegebundenem Boden Parteipolitische Betätigung findet nicht statt.
+   - Förderung, Organisation und Moderation von politischem und gesellschaftlichem Austausch als überparteiliche Bildungsarbeit zur Stärkung allgemeiner Bildung und einer werteorientierten, respektvollen und diskriminierungsfreien Kommunikation; insbesondere durch Interviews, Diskursformate und die Moderation von Communitys auf neutralem, Werte gebundenem Boden, parteipolitische Betätigung findet nicht statt.
 3. Der Verein ist sich bewusst, dass er in der Aufbauphase nicht alle Zwecke vollumfänglich verwirklichen kann; wie die Verwirklichung intern konkret priorisiert, organisiert und koordiniert wird, regelt eine Zweckordnung.
 4. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne der §§ 51 ff. AO.
 5. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -77,11 +77,11 @@
 ### § 5a Dezentrale Organisation und Hierarchieabbau
 1. Der Verein organisiert sich dezentral in Arbeitskreisen und Projekten. Delegation begründet keine hierarchische Überordnung; sie ist ein Mandat mit Berichtspflicht gegenüber der Mitgliederversammlung.
 2. Transparenz und Rechenschaft erfolgen über geeignete digitale und analoge Dokumentationswege.
-3. Essentielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend; er trifft keine eigenständigen Grundsatz-, sowie größere Finanz- oder Ressourcenentscheidungen.
+3. Essenzielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend; er trifft keine eigenständigen Grundsatz-, sowie größere Finanz- oder Ressourcenentscheidungen.
 
 ### § 6 Mitgliederversammlung
 1. Die Mitgliederversammlung kann als Präsenz-, Hybrid- oder Online-Versammlung durchgeführt werden.
-2. Einladung mit Frist von zwei Wochen per E-Mail/Plattformbenachrichtigung oder postalisch; Tagesordnung wird im Mitgliederbereich oder per Schreiben bekanntgegeben.
+2. Einladung mit Frist von zwei Wochen per E-Mail/Plattformbenachrichtigung oder postalisch; Tagesordnung wird im Mitgliederbereich oder per Schreiben bekannt gegeben.
 3. Beschlüsse werden mit einfacher Mehrheit gefasst, sofern diese Satzung nichts anderes vorsieht.
 4. Die Versammlung wird schriftlich oder elektronisch protokolliert.
 5. Teilnahme- und Stimmrechtsprüfung erfolgen durch geeignete Verfahren, darunter persönliche Anwesenheit, eigenhändige Unterschrift, Zwei-Faktor-Verfahren, eID oder vom Verein bereitgestellte fortgeschrittene elektronische Signatursysteme.
@@ -92,7 +92,7 @@
 3. Die Frist zur Stimmabgabe beträgt grundsätzlich 7 Tage.
 4. Ist ein Mitgliederrat eingesetzt, so werden seine Stimmen bei geringer Mitgliederbeteiligung (weniger als 1/2) mit einem Faktor von 2/3 stärker gewichtet.
 5. Für alle Umlaufbeschlüsse gilt dieselbe einfache Mehrheit wie in § 6 Abs. 3.
-6. Das Ergebnis wird den Mitgliedern in Text- oder Elektronikform bekanntgegeben und protokolliert.
+6. Das Ergebnis wird den Mitgliedern in Text- oder Elektronikform bekannt gegeben und protokolliert.
 
 ### § 7 Mitgliederrat
 1. Der Mitgliederrat ist ein optionales Organ des Vereins; seine Mitglieder werden durch ein elektronisches Auslosungsverfahren bestimmt.

@@ -24,6 +24,7 @@
     - Art und Wert der Zuwendung
     - Datum der Zuwendung
     - Zweck der Zuwendung
+    - ggf. für die Zuwendung verwendetes Zahlungsmittel
 
    Personenbezogene Daten der zuwendenden Person (insbesondere Name und Anschrift) werden nur erhoben, sofern dies zur Abwicklung der Zuwendung erforderlich ist oder eine rechtliche Verpflichtung besteht.
 
@@ -44,7 +45,6 @@
 2. Erfolgt die Verarbeitung personenbezogener Daten durch externe Dienstleister im Auftrag des Vereins, so geschieht dies auf Grundlage eines Auftragsverarbeitungsvertrages gemäß Art. 28 DSGVO. In diesem Fall bleibt der Verein Verantwortlicher im Sinne der DSGVO, während der jeweilige Dienstleister als Auftragsverarbeiter tätig wird.
 
    Erfolgt die Verarbeitung personenbezogener Daten durch den Verein im Auftrag eines externen Nutzers auf Grundlage eines Nutzungs- oder Dienstleistungsvertrages, so handelt der Verein als Auftragsverarbeiter im Sinne der DSGVO. Der externe Nutzer ist in diesem Fall Verantwortlicher für die Verarbeitung der personenbezogenen Daten.
-
 
    Auftragsverarbeiter ist diejenige natürliche oder juristische Person, die personenbezogene Daten im Auftrag und nach Weisung des Verantwortlichen verarbeitet.
 

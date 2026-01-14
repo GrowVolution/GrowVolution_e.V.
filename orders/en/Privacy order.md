@@ -24,6 +24,7 @@
     - Type and value of the contribution
     - Date of the contribution
     - Purpose of the contribution
+    - if appl. payment method used
 
    Personal data of the contributing person (in particular name and address) are collected only insofar as this is necessary for the processing of the contribution or where a legal obligation exists.
 

@@ -47,7 +47,19 @@
 
    A processor is the natural or legal person who processes personal data on behalf of and in accordance with the instructions of the controller.
 
-### § 4 Rights of data subjects
+### § 4 Confidentiality in the Context of Purpose Fulfilment
+
+1. If a person discloses personal data by participating in or making use of services provided by the Association within the meaning of § 2 of its statutes, such data shall be processed in accordance with Art. 6(1)(b) GDPR or—where no contractual relationship exists—in accordance with Art. 6(1)(f) GDPR for the purpose of safeguarding the statutory objectives of the Association.
+
+2. If it cannot be ruled out that, in the context of an offering provided by the Association, special categories of personal data may be processed, such processing pursuant to Art. 9(2)(a) GDPR may only take place if the data subject has previously given explicit, informed, and freely revocable consent.
+
+3. All personal data becoming known in the course of the Association’s activities shall be treated confidentially and in a purpose-bound manner.
+
+   Storage or disclosure shall only take place insofar as this is necessary for the fulfilment of the statutory purposes, the safeguarding of legitimate interests, the fulfilment of legal obligations, or the protection of the data subject or the public.
+
+4. The Association is obliged, taking into account the state of the art and appropriate organisational measures, to ensure the protection of personal data and the specific implementation of Art. 5(1)(c) GDPR.
+
+### § 5 Rights of data subjects
 1. Persons affected by data collection have the right to exercise the following data subject rights (rights of access and intervention) with regard to the processing of their personal data, whereby reference is made to the cited legal basis for the respective conditions of exercise:
     - Right of access pursuant to Art. 15 GDPR
     - Right to rectification pursuant to Art. 16 GDPR
@@ -62,7 +74,7 @@
 
    If the data subject exercises their right to object, the association will cease processing the data concerned. Further processing remains reserved if the association can demonstrate compelling legitimate grounds for the processing which override the interests, fundamental rights and freedoms of the data subject, or if the processing serves the establishment, exercise or defense of legal claims.
 
-### § 5 Duration of storage of personal data
+### § 6 Duration of storage of personal data
 1. The duration of the storage of personal data is determined by the respective legal basis, the purpose of processing and – where applicable – additionally by the respective statutory retention periods.
 
    Where statutory retention periods exist for data processed in the context of contractual or quasi-contractual obligations on the basis of Art. 6(1)(b) GDPR, such data are routinely deleted after the expiration of the retention periods, provided that they are no longer required for contract performance or contract initiation and/or no legitimate interest in further storage persists on the part of the association.

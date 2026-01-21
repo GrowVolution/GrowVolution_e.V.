@@ -1,18 +1,20 @@
 <h1 align="center">Privacy Order</h1>
 
+
 ### § 1 Introduction
 1. This order governs the handling of personal data by the association. Personal data are all data by which a natural person can be personally identified.
 
 2. The controller for data processing by and within the association within the meaning of the General Data Protection Regulation (GDPR) is the association itself, represented by its board. The controller is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data.
 
+
 ### § 2 Data collection in administrative matters
 1. When applying for membership, the following data are collected:
-    - Full name of the applicant
-    - Address of the applicant
-    - Email address of the applicant
-    - Telephone number of the applicant
-    - Date and time of receipt of the application
-    - Membership status
+   - Full name of the applicant
+   - Address of the applicant
+   - Email address of the applicant
+   - Telephone number of the applicant
+   - Date and time of receipt of the application
+   - Membership status
 
    The provision of a telephone number is required, as internal communication and decision-making within the association currently take place via a WhatsApp community used by the association. The telephone number serves the clear identification of members as well as participation in internal votes and organizational processes.
 
@@ -21,10 +23,10 @@
    Processing is carried out in accordance with Art. 6(1)(b) GDPR for the performance of the membership application and – in the event that a membership relationship is established – for the establishment and administration of the membership.
 
 2. For the processing of contributions, the following data are collected:
-    - Type and value of the contribution
-    - Date of the contribution
-    - Purpose of the contribution
-    - if appl. payment method used
+   - Type and value of the contribution
+   - Date of the contribution
+   - Purpose of the contribution
+   - if appl. payment method used
 
    Personal data of the contributing person (in particular name and address) are collected only insofar as this is necessary for the processing of the contribution or where a legal obligation exists.
 
@@ -33,6 +35,7 @@
    - for purpose-bound contributions or cost participations, insofar as processing is necessary for the performance of the underlying agreement (Art. 6(1)(b) GDPR).
 
    In all other cases, processing takes place exclusively to the extent necessary in accordance with the principle of data minimization.
+
 
 ### § 3 Data collection in external matters
 1. The processing of personal data in the context of online and other external presences of the association is governed by a separate privacy policy. The data collected there are processed in accordance with the provisions of that privacy policy.
@@ -47,6 +50,7 @@
 
    A processor is the natural or legal person who processes personal data on behalf of and in accordance with the instructions of the controller.
 
+
 ### § 4 Confidentiality in the Context of Purpose Fulfilment
 
 1. If a person discloses personal data by participating in or making use of services provided by the Association within the meaning of § 2 of its statutes, such data shall be processed in accordance with Art. 6(1)(b) GDPR or—where no contractual relationship exists—in accordance with Art. 6(1)(f) GDPR for the purpose of safeguarding the statutory objectives of the Association.
@@ -59,20 +63,22 @@
 
 4. The Association is obliged, taking into account the state of the art and appropriate organisational measures, to ensure the protection of personal data and the specific implementation of Art. 5(1)(c) GDPR.
 
+
 ### § 5 Rights of data subjects
 1. Persons affected by data collection have the right to exercise the following data subject rights (rights of access and intervention) with regard to the processing of their personal data, whereby reference is made to the cited legal basis for the respective conditions of exercise:
-    - Right of access pursuant to Art. 15 GDPR
-    - Right to rectification pursuant to Art. 16 GDPR
-    - Right to erasure pursuant to Art. 17 GDPR
-    - Right to restriction of processing pursuant to Art. 18 GDPR
-    - Right to notification pursuant to Art. 19 GDPR
-    - Right to data portability pursuant to Art. 20 GDPR
-    - Right to withdraw granted consent pursuant to Art. 7(3) GDPR
-    - Right to lodge a complaint pursuant to Art. 77 GDPR
+   - Right of access pursuant to Art. 15 GDPR
+   - Right to rectification pursuant to Art. 16 GDPR
+   - Right to erasure pursuant to Art. 17 GDPR
+   - Right to restriction of processing pursuant to Art. 18 GDPR
+   - Right to notification pursuant to Art. 19 GDPR
+   - Right to data portability pursuant to Art. 20 GDPR
+   - Right to withdraw granted consent pursuant to Art. 7(3) GDPR
+   - Right to lodge a complaint pursuant to Art. 77 GDPR
 
 2. Where the association processes personal data on the basis of its overriding legitimate interest as part of a balancing of interests, the data subject has the right at any time to object to this processing for reasons arising from their particular situation, with effect for the future.
 
    If the data subject exercises their right to object, the association will cease processing the data concerned. Further processing remains reserved if the association can demonstrate compelling legitimate grounds for the processing which override the interests, fundamental rights and freedoms of the data subject, or if the processing serves the establishment, exercise or defense of legal claims.
+
 
 ### § 6 Duration of storage of personal data
 1. The duration of the storage of personal data is determined by the respective legal basis, the purpose of processing and – where applicable – additionally by the respective statutory retention periods.

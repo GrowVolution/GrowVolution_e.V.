@@ -1,18 +1,20 @@
 <h1 align="center">Datenschutzordnung</h1>
 
+
 ### § 1 Einleitung
 1. Diese Ordnung regelt den Umgang mit personenbezogenen Daten durch den Verein. Personenbezogene Daten sind hierbei alle Daten, mit denen eine natürliche Person persönlich identifiziert werden kann.
 
 2. Verantwortlich für die Datenverarbeitung durch den Verein und innerhalb des Vereins im Sinne der Datenschutz-Grundverordnung (DSGVO) ist der Verein selbst, vertreten durch den Vorstand. Der für die Verarbeitung von personenbezogenen Daten Verantwortliche ist diejenige natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet.
 
+
 ### § 2 Datenerfassung bei verwaltungsrechtlichen Angelegenheiten
 1. Beim Beantragen einer Mitgliedschaft erheben wir folgende Daten:
-    - Vollständiger Name des Antragsstellers
-    - Adresse des Antragsstellers
-    - E-Mail-Adresse des Antragsstellers
-    - Telefonnummer des Antragsstellers
-    - Datum und Uhrzeit des Antragseingangs
-    - Status der Mitgliedschaft
+   - Vollständiger Name des Antragsstellers
+   - Adresse des Antragsstellers
+   - E-Mail-Adresse des Antragsstellers
+   - Telefonnummer des Antragsstellers
+   - Datum und Uhrzeit des Antragseingangs
+   - Status der Mitgliedschaft
 
    Die Angabe einer Telefonnummer ist erforderlich, da die vereinsinterne Kommunikation und Willensbildung derzeit über eine vom Verein genutzte WhatsApp-Community erfolgt. Die Telefonnummer dient der eindeutigen Zuordnung von Mitgliedern sowie der Teilnahme an vereinsinternen Abstimmungen und organisatorischen Prozessen.
 
@@ -21,10 +23,10 @@
    Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO zur Durchführung des Mitgliedsantrags und – im Falle des Zustandekommens eines Mitgliedschaftsverhältnisses – zur Begründung und Verwaltung der Mitgliedschaft.
 
 2. Zur Verarbeitung von Zuwendungen erheben wir folgende Daten:
-    - Art und Wert der Zuwendung
-    - Datum der Zuwendung
-    - Zweck der Zuwendung
-    - ggf. für die Zuwendung verwendetes Zahlungsmittel
+   - Art und Wert der Zuwendung
+   - Datum der Zuwendung
+   - Zweck der Zuwendung
+   - ggf. für die Zuwendung verwendetes Zahlungsmittel
 
    Personenbezogene Daten der zuwendenden Person (insbesondere Name und Anschrift) werden nur erhoben, sofern dies zur Abwicklung der Zuwendung erforderlich ist oder eine rechtliche Verpflichtung besteht.
 
@@ -33,6 +35,7 @@
    - bei zweckgebundenen Zuwendungen oder Kostenbeteiligungen, soweit die Verarbeitung zur Durchführung der zugrunde liegenden Vereinbarung erforderlich ist (Art. 6 Abs. 1 lit. b DSGVO).
 
    In allen übrigen Fällen erfolgt die Verarbeitung ausschließlich im erforderlichen Umfang unter Beachtung des Grundsatzes der Datenminimierung.
+
 
 ### § 3 Datenerfassung bei externen Angelegenheiten
 1. Die Verarbeitung personenbezogener Daten im Rahmen von Online- und sonstigen externen Auftritten des Vereins wird in einer gesonderten Datenschutzerklärung geregelt. Die dort erhobenen Daten werden entsprechend den Regelungen dieser Datenschutzerklärung verarbeitet.
@@ -47,6 +50,7 @@
 
    Auftragsverarbeiter ist diejenige natürliche oder juristische Person, die personenbezogene Daten im Auftrag und nach Weisung des Verantwortlichen verarbeitet.
 
+
 ### § 4 Vertraulichkeit im Rahmen der Zweckverwirklichung
 1. Teilt eine Person durch Teilnahme an bzw. Inanspruchnahme von durch den Verein bereitgestellten Angeboten im Sinne des § 2 seiner Satzung personenbezogene Daten, dann erfolgt die Verarbeitung gemäß Art. 6 Abs. 1 lit. b DSGVO oder – sofern kein Vertragsverhältnis vorliegt – gemäß Art. 6 Abs. 1 lit. f DSGVO zur Wahrung der satzungsgemäßen Zwecke des Vereins.
 
@@ -58,20 +62,22 @@
 
 4. Der Verein ist verpflichtet unter Berücksichtigung des Standes der Technik und organisatorischer Maßnahmen, für den Schutz personenbezogener Daten und die besondere Verwirklichung des Art. 5 Abs. 1 lit. c DSGVO Sorge zu tragen.
 
+
 ### § 5 Rechte betroffener Personen
 1. Die von der Datenerfassung betroffenen Personen haben die Möglichkeit hinsichtlich der Verarbeitung ihrer personenbezogenen Daten die nachstehenden Betroffenenrechte (Auskunfts- und Interventionsrechte) auszuüben, wobei für die jeweiligen Ausübungsvoraussetzungen auf die angeführte Rechtsgrundlage verwiesen wird:
-    - Auskunftsrecht gemäß Art. 15 DSGVO
-    - Recht auf Berichtigung gemäß Art. 16 DSGVO
-    - Recht auf Löschung gemäß Art. 17 DSGVO
-    - Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO
-    - Recht auf Unterrichtung gemäß Art. 19 DSGVO
-    - Recht auf Datenübertragbarkeit gemäß Art. 20 DSGVO
-    - Recht auf Widerruf erteilter Einwilligungen gemäß Art. 7 Abs. 3 DSGVO
-    - Recht auf Beschwerde gemäß Art. 77 DSGVO
+   - Auskunftsrecht gemäß Art. 15 DSGVO
+   - Recht auf Berichtigung gemäß Art. 16 DSGVO
+   - Recht auf Löschung gemäß Art. 17 DSGVO
+   - Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO
+   - Recht auf Unterrichtung gemäß Art. 19 DSGVO
+   - Recht auf Datenübertragbarkeit gemäß Art. 20 DSGVO
+   - Recht auf Widerruf erteilter Einwilligungen gemäß Art. 7 Abs. 3 DSGVO
+   - Recht auf Beschwerde gemäß Art. 77 DSGVO
 
 2. Wenn der Verein im Rahmen einer Interessenabwägung personenbezogene Daten aufgrund seines überwiegenden berechtigten Interesses verarbeitet, hat die betroffene Person das jederzeitige Recht, aus Gründen die sich aus ihrer besonderen Situation ergeben, gegen diese Verarbeitung Widerspruch mit Wirkung für die Zukunft einzulegen.
 
    Macht die betroffene Person von ihrem Widerspruchsrecht Gebrauch, beendet der Verein die Verarbeitung der betroffenen Daten. Eine Weiterverarbeitung bleibt aber vorbehalten, wenn der Verein zwingende schutzwürdige Gründe für die Verarbeitung nachweisen kann, die die Interessen der betroffenen Person, Grundrechte und Grundfreiheiten überwiegen, oder wenn die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
+
 
 ### § 6 Dauer der Speicherung personenbezogener Daten
 1. Die Dauer der Speicherung von personenbezogenen Daten bemisst sich anhand der jeweiligen Rechtsgrundlage, am Verwendungszweck und – sofern einschlägig – zusätzlich anhand der jeweiligen gesetzlichen Aufbewahrungsfrist.

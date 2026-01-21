@@ -13,11 +13,16 @@
   ~ Change yourself and you change the world. ~
 </p>
 
+
 ### § 1 Name, Registered Office, Financial Year
 1. The association bears the name “GrowVolution”.
+
 2. It shall be entered into the register of associations and will thereafter bear the suffix “e. V.”.
+
 3. The registered office of the association is Braunschweig.
+
 4. The financial year is the calendar year.
+
 
 ### § 2 Purpose of the Association
 1. The purpose of the association is:
@@ -26,6 +31,7 @@
    - the general promotion of the democratic system within the scope of this law; this does not include activities pursuing only specific civic interests or activities limited to municipal politics,
    - the promotion of civic engagement for charitable and benevolent purposes,
    - the promotion of science and research.
+
 2. The association’s purpose is realized in particular through:
    - provision of infrastructure for self-reflection, goal pursuit, and personal development,
    - promotion of mindfulness, self-responsibility, and interpersonal support,
@@ -43,28 +49,43 @@
    - promotion of development cooperation through support of educational, health, infrastructure, and self-help projects in developing and emerging countries, in particular through knowledge transfer, capacity building, provision of training materials, and support for community-oriented local structures,
    - support for community-oriented initiatives in developing and emerging countries that contribute to improving living conditions, strengthening local capacities, and fostering sustainable, independent structures,
    - promotion, organization, and moderation of political and social exchange as non-partisan educational work to strengthen general education and value-oriented, respectful, and discrimination-free communication; in particular through interviews discussion formats, and moderation of communities on a neutral, value-driven basis. Political party activities do not take place.
+
 3. The association is aware that in the development phase it cannot fully realize all purposes; how the fulfillment is internally prioritized, organized, and coordinated is regulated by a purpose order.
+
 4. The association pursues exclusively and directly charitable purposes within the meaning of §§ 51 ff. AO (German Fiscal Code).
+
 5. The association is selfless; it does not primarily pursue its own economic purposes.
+
 
 ### § 2a Use of Funds
 1. Funds of the association may only be used for purposes in accordance with these statutes.
+
 2. Members do not receive any benefits from the association’s funds.
+
 3. Reimbursement of necessary expenses and reasonable remuneration for services is permissible if approved by the general assembly.
+
 
 ### § 2b Prohibition of Preferential Treatment
 1. No person may be favored by expenditures unrelated to the association’s purpose or by disproportionately high remuneration.
 
+
 ### § 3 Membership
 1. Any natural or legal person who supports the objectives of the association may become a member.
+
 2. Applications for membership may be submitted in written or text/electronic form.
+
 3. Identity may be verified through traditional means or through identity and intent confirmation procedures provided by the association.
+
 4. Admission is decided by the board or a body mandated by it.
+
 5. Membership ends upon resignation, expulsion, or death. Resignation may be declared in writing or electronically.
+
 
 ### § 4 Contributions
 1. Members provide voluntary contributions according to a contribution model decided by the general assembly.
+
 2. Payment may be made digitally or via traditional bank transfer.
+
 
 ### § 5 Organs of the Association
 1. The organs of the association are:
@@ -72,30 +93,48 @@
    - the members’ council,
    - the board.
 
+
 ### § 5a Decentralized Organization and Reduction of Hierarchy
 1. The association organizes itself decentrally in working groups and projects. Delegation does not constitute hierarchical superiority; it is a mandate with a reporting obligation to the general assembly.
+
 2. Transparency and accountability are ensured through suitable digital and analogue documentation methods.
+
 3. Essential decisions are always made by the members or the members’ council. The board is primarily representative and coordinating; it does not make independent fundamental or major financial or resource decisions.
+
 
 ### § 6 General Assembly
 1. The general assembly may be held in-person, hybrid, or online.
+
 2. Invitations must be sent with a notice period of two weeks via email/platform notification or by post; the agenda is published in the members’ area or by written notice.
+
 3. Resolutions are passed by a simple majority unless otherwise specified in these statutes.
+
 4. The assembly is recorded in written or electronic form.
+
 5. Participation and voting rights are verified through appropriate procedures, including personal attendance, handwritten signature, two-factor authentication, eID, or advanced electronic signature systems provided by the association.
+
 
 ### § 6a Resolutions Outside an Assembly (Circulation Procedure)
 1. Independently of § 6, resolutions may be passed without an assembly through circulation procedure—by post or in text/electronic form.
+
 2. Identity and intent confirmation follow § 6 para. 5.
+
 3. The voting period is generally 7 days.
+
 4. If a members’ council is in place, its votes are weighted more strongly (factor 2/3) in case of low member participation (less than 1/2).
+
 5. All circulation resolutions follow the same simple majority rule as § 6 para. 3.
+
 6. The result is announced to the members in text or electronic form and documented.
+
 
 ### § 7 Members’ Council
 1. The members’ council is an optional organ of the association; its members are determined by an electronic lottery procedure.
+
 2. It may be consulted by the board for major matters requiring quick decisions, acting on behalf of the general assembly.
+
 3. Further details are regulated by a members’ council order.
+
 
 ### § 8 Board
 1. The board consists of at least 2 and at most 6 members:
@@ -105,25 +144,41 @@
    - secretary (optional)
    - data-protection officer (optional)
    - permanent representative (optional)
+
 2. Election by the general assembly for three years; re-election permitted. The board remains in office until a new election takes place.
+
 3. The association is represented in and out of court jointly by the first and second board members (§ 26 German Civil Code). The general assembly may elect a permanent representative who is authorized to represent the association in place of the first or second board member.
+
 4. The board represents and coordinates ongoing operations, prepares resolution proposals, initiates voting processes, and implements members’ resolutions.
+
 5. The board is obliged to disclose all operational and independently made decisions to the general assembly without being asked.
+
 6. Offices are honorary; reimbursement of expenses is permissible. Remuneration requires a 2/3 majority of the general assembly and must be reasonable.
+
 7. Board members may resign at any time; however, they are obligated to inform the general assembly in due time.
+
 8. If a board position becomes vacant during a term, the general assembly is obligated to elect a replacement for the remainder of the term; if the required minimum number of board members is not undercut, the general assembly may decide not to fill the vacant position.
+
 9. Further details are regulated by a board order.
+
 
 ### § 8a Vote of No Confidence & Removal from Office
 1. A board member may be removed from office by a 2/3 majority vote of no confidence by the general assembly.
+
 2. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; should this impair the regular operation of the association, the position shall be represented for the duration of the suspension by a substitute appointed by the general assembly.
+
 3. If the vote is successful, § 8 para. 8 of the statutes applies.
+
 
 ### § 9 Dissolution and Allocation of Assets
 1. Dissolution may only be resolved by the general assembly or by circulation resolution with a 4/5 majority.
+
 2. In the event of dissolution, annulment, or loss of charitable status, the association’s assets shall fall to a legal entity under public law or another charitable organization for use in promoting the purposes named in § 2 para. 1 within the meaning of the German Fiscal Code.
+
 
 ### § 10 Regulations and Orders
 1. The general assembly may issue supplementary orders.
+
 2. These may not contradict the statutes and are binding for all members.
+
 3. Issuing or amending association orders requires a 2/3 majority.

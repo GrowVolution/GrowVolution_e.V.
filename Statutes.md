@@ -3,7 +3,7 @@
 <h3>Preamble</h3>
 <p align="justify">
   Born from a deep dissatisfaction with the state of our world and arising from a time of alienation – an alienation from ourselves, from one another, and from nature,
-  this association shall forever serve as a light in the darkness for humanity.<br><br>
+  this association shall be a light in the darkness for humanity for all time.<br><br>
   The members of this association have come together to take joint responsibility for their lives and their community, creating a framework in which they have the opportunity to grow beyond themselves freely
   and independently. They recognize their own role in the events of this world and thereby voluntarily commit themselves to serving a greater whole.<br><br>
   We now direct the raised finger back at ourselves and release our old judgment. For we are human, and as humans, we are fallible. With this admission, we allow ourselves to design structures
@@ -12,7 +12,6 @@
 <p align="center">
   ~ Change yourself and you change the world. ~
 </p>
-
 
 ### § 1 Name, Registered Office, Financial Year
 1. The association bears the name “GrowVolution”.
@@ -32,7 +31,7 @@
    - the promotion of civic engagement for charitable and benevolent purposes,
    - the promotion of science and research.
 
-2. The association’s purpose is realized in particular through:
+2. The purpose of the association is realized in particular through:
    - provision of infrastructure for self-reflection, goal pursuit, and personal development,
    - promotion of mindfulness, self-responsibility, and interpersonal support,
    - organization and implementation of digital and physical educational formats, challenges, workshops, and projects,
@@ -46,16 +45,19 @@
    - support and promotion of alternative educational concepts, in particular integrative schools based on humanistic and reform-pedagogical approaches,
    - support for the development of solidarity-based, non-profit-oriented financial structures,
    - development of jointly used infrastructure (e.g., vehicles, spaces, tools),
-   - promotion of development cooperation through support of educational, health, infrastructure, and self-help projects in developing and emerging countries, in particular through knowledge transfer, capacity building, provision of training materials, and support for community-oriented local structures,
-   - support for community-oriented initiatives in developing and emerging countries that contribute to improving living conditions, strengthening local capacities, and fostering sustainable, independent structures,
-   - promotion, organization, and moderation of political and social exchange as non-partisan educational work to strengthen general education and value-oriented, respectful, and discrimination-free communication; in particular through interviews discussion formats, and moderation of communities on a neutral, value-driven basis. Political party activities do not take place.
+   - promotion of development cooperation through support of educational, health, infrastructure, and self-help projects in developing and emerging countries,
+     in particular through knowledge transfer, capacity building, provision of training materials, and the promotion of community-oriented local structures,
+   - support for community-oriented initiatives in developing and emerging countries that contribute to improving living conditions, strengthening local capacities,
+     and fostering sustainable, independent structures,
+   - promotion, organization, and moderation of political and social exchange as non-partisan educational work to strengthen general education
+     and value-oriented, respectful, and discrimination-free communication; in particular through interviews, discussion formats, and the moderation of communities
+     on neutral, value-driven grounds. Political party activity does not take place.
 
-3. The association is aware that in the development phase it cannot fully realize all purposes; how the fulfillment is internally prioritized, organized, and coordinated is regulated by a purpose order.
+3. The association is aware that in the development phase not all purposes can be fully realized; how realization is internally prioritized, organized, and coordinated is regulated by a purpose order.
 
 4. The association pursues exclusively and directly charitable purposes within the meaning of §§ 51 ff. AO (German Fiscal Code).
 
 5. The association is selfless; it does not primarily pursue its own economic purposes.
-
 
 ### § 2a Use of Funds
 1. Funds of the association may only be used for purposes in accordance with these statutes.
@@ -66,7 +68,7 @@
 
 
 ### § 2b Prohibition of Preferential Treatment
-1. No person may be favored by expenditures unrelated to the association’s purpose or by disproportionately high remuneration.
+1. No person may be favored by expenditures unrelated to the purpose of the association or by disproportionately high remuneration.
 
 
 ### § 3 Membership
@@ -85,7 +87,6 @@
 1. Members provide voluntary contributions according to a contribution model decided by the general assembly.
 
 2. Payment may be made digitally or via traditional bank transfer.
-
 
 ### § 5 Organs of the Association
 1. The organs of the association are:
@@ -115,13 +116,13 @@
 
 
 ### § 6a Resolutions Outside an Assembly (Circulation Procedure)
-1. Independently of § 6, resolutions may be passed without an assembly through circulation procedure—by post or in text/electronic form.
+1. Independently of § 6, resolutions may be passed without an assembly through a circulation procedure – by post or in text/electronic form.
 
 2. Identity and intent confirmation follow § 6 para. 5.
 
 3. The voting period is generally 7 days.
 
-4. If a members’ council is in place, its votes are weighted more strongly (factor 2/3) in case of low member participation (less than 1/2).
+4. In case of low participation (less than 1/2), the votes of the members’ council are weighted more strongly with a factor of 2/3.
 
 5. All circulation resolutions follow the same simple majority rule as § 6 para. 3.
 
@@ -129,51 +130,48 @@
 
 
 ### § 7 Members’ Council
-1. The members’ council is an optional organ of the association; its members are determined by an electronic lottery procedure.
+1. The members’ council is an optional organ of the association; its members are determined by the general assembly. Further details are regulated by the members’ council order.
 
-2. It may be consulted by the board for major matters requiring quick decisions, acting on behalf of the general assembly.
+2. The council consists of active members and serves to reduce hierarchical structures in accordance with § 5a while ensuring operational capability.
 
-3. Further details are regulated by a members’ council order.
+3. It may be consulted by the board for major matters requiring quick decisions, acting on behalf of the general assembly.
 
 
 ### § 8 Board
-1. The board consists of at least 2 and at most 6 members:
+1. The board consists of at least 2 and at most 5 members:
    - 1st chairperson
    - 2nd chairperson
    - treasurer (optional)
    - secretary (optional)
-   - data-protection officer (optional)
    - permanent representative (optional)
 
-2. Election by the general assembly for three years; re-election permitted. The board remains in office until a new election takes place.
+2. The distribution of tasks is regulated by a board order based on board composition.
 
-3. The association is represented in and out of court jointly by the first and second board members (§ 26 German Civil Code). The general assembly may elect a permanent representative who is authorized to represent the association in place of the first or second board member.
+3. Election by the general assembly for three years; re-election permitted. The board remains in office until a new election takes place.
 
-4. The board represents and coordinates ongoing operations, prepares resolution proposals, initiates voting processes, and implements members’ resolutions.
+4. The association is represented judicially and extrajudicially by two board members jointly (§ 26 BGB).
 
-5. The board is obliged to disclose all operational and independently made decisions to the general assembly without being asked.
+5. The board represents and coordinates ongoing operations, prepares resolution proposals, initiates voting processes, and implements members’ resolutions.
 
-6. Offices are honorary; reimbursement of expenses is permissible. Remuneration requires a 2/3 majority of the general assembly and must be reasonable.
+6. The board is obliged to disclose all operational and independently made decisions to the general assembly without being asked.
 
-7. Board members may resign at any time; however, they are obligated to inform the general assembly in due time.
+7. Offices are honorary; reimbursement of expenses is permissible. Remuneration requires a 2/3 majority of the general assembly and must be reasonable.
 
-8. If a board position becomes vacant during a term, the general assembly is obligated to elect a replacement for the remainder of the term; if the required minimum number of board members is not undercut, the general assembly may decide not to fill the vacant position.
-
-9. Further details are regulated by a board order.
+8. Board members may resign at any time. However, they are obligated to inform the general assembly in due time and remain in office until a successor is elected.
 
 
 ### § 8a Vote of No Confidence & Removal from Office
 1. A board member may be removed from office by a 2/3 majority vote of no confidence by the general assembly.
 
-2. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; should this impair the regular operation of the association, the position shall be represented for the duration of the suspension by a substitute appointed by the general assembly.
-
-3. If the vote is successful, § 8 para. 8 of the statutes applies.
+2. If the required number of board members is thereby undercut, the general assembly is obligated to elect a replacement for the remainder of the term.
+   Otherwise, tasks are distributed among the remaining board members in accordance with the board order.
 
 
 ### § 9 Dissolution and Allocation of Assets
 1. Dissolution may only be resolved by the general assembly or by circulation resolution with a 4/5 majority.
 
-2. In the event of dissolution, annulment, or loss of charitable status, the association’s assets shall fall to a legal entity under public law or another charitable organization for use in promoting the purposes named in § 2 para. 1 within the meaning of the German Fiscal Code.
+2. In the event of dissolution, annulment, or loss of charitable status, the association’s assets shall fall to a legal entity under public law or another charitable organization
+   for use in promoting popular and vocational education within the meaning of the German Fiscal Code.
 
 
 ### § 10 Regulations and Orders

@@ -1,6 +1,8 @@
 <h1 align="center">Statutes of the Association</h1>
 
+
 <h3>Preamble</h3>
+
 <p align="justify">
   Born from a deep dissatisfaction with the state of our world and arising from a time of alienation – an alienation from ourselves, from one another, and from nature,
   this association shall be a light in the darkness for humanity for all time.<br><br>
@@ -9,11 +11,14 @@
   We now direct the raised finger back at ourselves and release our old judgment. For we are human, and as humans, we are fallible. With this admission, we allow ourselves to design structures
   that cushion our own fallibility.
 </p>
+
 <p align="center">
   ~ Change yourself and you change the world. ~
 </p>
 
+
 ### § 1 Name, Registered Office, Financial Year
+
 1. The association bears the name “GrowVolution”.
 
 2. It shall be entered into the register of associations and will thereafter bear the suffix “e. V.”.
@@ -24,6 +29,7 @@
 
 
 ### § 2 Purpose of the Association
+
 1. The purpose of the association is:
    - the promotion of education, popular and vocational training, including student assistance,
    - the promotion of development cooperation,
@@ -59,7 +65,9 @@
 
 5. The association is selfless; it does not primarily pursue its own economic purposes.
 
+
 ### § 2a Use of Funds
+
 1. Funds of the association may only be used for purposes in accordance with these statutes.
 
 2. Members do not receive any benefits from the association’s funds.
@@ -68,10 +76,12 @@
 
 
 ### § 2b Prohibition of Preferential Treatment
+
 1. No person may be favored by expenditures unrelated to the purpose of the association or by disproportionately high remuneration.
 
 
 ### § 3 Membership
+
 1. Any natural or legal person who supports the objectives of the association may become a member.
 
 2. Applications for membership may be submitted in written or text/electronic form.
@@ -84,11 +94,14 @@
 
 
 ### § 4 Contributions
+
 1. Members provide voluntary contributions according to a contribution model decided by the general assembly.
 
 2. Payment may be made digitally or via traditional bank transfer.
 
+
 ### § 5 Organs of the Association
+
 1. The organs of the association are:
    - the general assembly (in-person, hybrid, or virtual),
    - the members’ council,
@@ -96,6 +109,7 @@
 
 
 ### § 5a Decentralized Organization and Reduction of Hierarchy
+
 1. The association organizes itself decentrally in working groups and projects. Delegation does not constitute hierarchical superiority; it is a mandate with a reporting obligation to the general assembly.
 
 2. Transparency and accountability are ensured through suitable digital and analogue documentation methods.
@@ -104,6 +118,7 @@
 
 
 ### § 6 General Assembly
+
 1. The general assembly may be held in-person, hybrid, or online.
 
 2. Invitations must be sent with a notice period of two weeks via email/platform notification or by post; the agenda is published in the members’ area or by written notice.
@@ -116,6 +131,7 @@
 
 
 ### § 6a Resolutions Outside an Assembly (Circulation Procedure)
+
 1. Independently of § 6, resolutions may be passed without an assembly through a circulation procedure – by post or in text/electronic form.
 
 2. Identity and intent confirmation follow § 6 para. 5.
@@ -130,6 +146,7 @@
 
 
 ### § 7 Members’ Council
+
 1. The members’ council is an optional organ of the association; its members are determined by the general assembly. Further details are regulated by the members’ council order.
 
 2. The council consists of active members and serves to reduce hierarchical structures in accordance with § 5a while ensuring operational capability.
@@ -138,6 +155,7 @@
 
 
 ### § 8 Board
+
 1. The board consists of at least 2 and at most 5 members:
    - 1st chairperson
    - 2nd chairperson
@@ -161,6 +179,7 @@
 
 
 ### § 8a Vote of No Confidence & Removal from Office
+
 1. A board member may be removed from office by a 2/3 majority vote of no confidence by the general assembly.
 
 2. If the required number of board members is thereby undercut, the general assembly is obligated to elect a replacement for the remainder of the term.
@@ -168,6 +187,7 @@
 
 
 ### § 9 Dissolution and Allocation of Assets
+
 1. Dissolution may only be resolved by the general assembly or by circulation resolution with a 4/5 majority.
 
 2. In the event of dissolution, annulment, or loss of charitable status, the association’s assets shall fall to a legal entity under public law or another charitable organization
@@ -175,6 +195,7 @@
 
 
 ### § 10 Regulations and Orders
+
 1. The general assembly may issue supplementary orders.
 
 2. These may not contradict the statutes and are binding for all members.

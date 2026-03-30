@@ -1,17 +1,32 @@
 # GrowVolution e.V.
-Hey! 👋🏼<br><br>
-This is our official association repository. We want to try something new and make governance architecture open source. 📝<br><br>
-You can find our statutes and orders here. So you can participate on improvements of our internal structure, use it as an inspiration for your own institutions or just review our current infrastructure. 💯
+
+Hey! 👋🏼
+
+This is our official association repository. We want to try something new and make our governance architecture open source. 📝
+
+You can find our statutes and orders here. You can participate in improving our internal structure, use it as inspiration for your own institutions, or simply review our current setup. 💯
+
 
 ## 🔱 Branching rules and meaning
-To keep the developement of our internal architecture clean, we want to provide a short introduction into our branching system:
-1. main - Contains the adopted versions of our governance documents. Can only be changed by pull requests. A pull request will initiate the internal adoption process.
-2. unadopted - Is the actively maintained branch wich contains the current state of our documents before adoption.
-3. orders/* - Contains newly created orders and their developments before they are merged into the unadopted branch.
+
+To keep the development of our internal architecture clean, we provide a short introduction to our branching system:
+
+1. main – Contains the adopted versions of our governance documents. Can only be changed via pull requests. A pull request initiates the internal adoption process.
+
+2. unadopted – The actively maintained branch that contains the current state of our documents before adoption.
+
+3. policies/* – Contains newly created policies and their development before they are merged into the unadopted branch.
+
+4. statutes – The branch where our statutes are developed. Statutes are not developed in the unadopted branch because they must be approved by a notary and adopted by the court before they can be merged into the main branch.
+
 
 ## ℹ️ Further information
-- This repository is licensed by the [GPL v3](LICENSE).
-- To reduce the barriers of our international audience, we are preffering english repositories. But scince our associationn is (currently not finally) registered in germany, the original documents were created in german. English versions are translated by AI.
+
+- This repository is licensed under the [GPL Version 3](LICENSE).
+
+- To reduce barriers for our international audience, we prefer English repositories. However, since our association is registered in Germany, the original documents were created in German. English versions are translated using AI.
+
 
 ---
-**GrowVolution e.V. 2025 - A new beginning ✨**
+
+**GrowVolution e.V. 2025 – A new beginning ✨**

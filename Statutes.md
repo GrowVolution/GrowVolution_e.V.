@@ -81,7 +81,7 @@
 
 3. Identity may be verified through traditional means or through identity and intent confirmation procedures provided by the association.
 
-4. Admission is decided by the board or a body mandated by it.
+4. Admission is decided by at least 1 board member or a body mandated by the board.
 
 5. Membership ends upon resignation, expulsion, or death. Resignation may be declared in writing or electronically.
 

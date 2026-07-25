@@ -81,7 +81,7 @@
 
 3. Die Identität kann durch klassische Nachweise oder durch vom Verein bereitgestellte Identitäts- und Willensbestätigungsverfahren nachgewiesen werden.
 
-4. Über die Aufnahme entscheidet der Vorstand oder eine durch ihn mandatierte Stelle.
+4. Über die Aufnahme entscheidet mindestens 1 Vorstandsmitglied oder eine durch den Vorstand mandatierte Stelle.
 
 5. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod. Der Austritt kann schriftlich oder elektronisch erklärt werden.
 

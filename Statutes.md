@@ -15,6 +15,7 @@
 
 
 ### § 1 Name, Registered Office, Financial Year
+
 1. The association bears the name “GrowVolution”.
 
 2. It shall be entered into the register of associations and will thereafter bear the suffix “e.V.”.
@@ -25,6 +26,7 @@
 
 
 ### § 2 Purpose of the Association
+
 1. The purpose of the association is:
    - the promotion of education, popular and vocational training, including student assistance,
    - the promotion of development cooperation,
@@ -58,6 +60,7 @@
 
 
 ### § 2a Use of Funds
+
 1. Funds of the association may only be used for purposes in accordance with these statutes.
 
 2. Members do not receive any benefits from the association’s funds.
@@ -66,10 +69,12 @@
 
 
 ### § 2b Prohibition of Preferential Treatment
+
 1. No person may be favored by expenditures unrelated to the association’s purpose or by disproportionately high remuneration.
 
 
 ### § 3 Membership
+
 1. Any natural or legal person who supports the objectives of the association may become a member.
 
 2. Applications for membership may be submitted in written or text/electronic form.
@@ -82,12 +87,14 @@
 
 
 ### § 4 Contributions
+
 1. Members provide voluntary contributions according to a contribution model decided by the general assembly.
 
 2. Payment may be made digitally or via traditional bank transfer.
 
 
 ### § 5 Organs of the Association
+
 1. The organs of the association are:
    - the general assembly (in-person, hybrid, or virtual),
    - the members’ council,
@@ -95,6 +102,7 @@
 
 
 ### § 5a Decentralized Organization and Reduction of Hierarchy
+
 1. The association organizes itself decentrally in working groups and projects. Delegation does not constitute hierarchical superiority; it is a mandate with a reporting obligation to the general assembly.
 
 2. Transparency and accountability are ensured through suitable digital and analogue documentation methods.
@@ -103,6 +111,7 @@
 
 
 ### § 6 General Assembly
+
 1. The general assembly may be held in-person, hybrid, or online.
 
 2. Invitations must be sent with a notice period of two weeks via email/platform notification or by post; the agenda is published in the members’ area or by written notice.
@@ -115,6 +124,7 @@
 
 
 ### § 6a Resolutions Outside an Assembly (Circulation Procedure)
+
 1. Independently of § 6, resolutions may be passed without an assembly through circulation procedure—by post or in text/electronic form.
 
 2. Identity and intent confirmation follow § 6 para. 5.
@@ -129,6 +139,7 @@
 
 
 ### § 7 Members’ Council
+
 1. The members’ council is an optional organ of the association; its members are determined by an electronic lottery procedure.
 
 2. It may be consulted by the board for major matters requiring quick decisions, acting on behalf of the general assembly.
@@ -137,6 +148,7 @@
 
 
 ### § 8 Board
+
 1. The board consists of 3 members:
    - 1st chairperson
    - 2nd chairperson
@@ -158,6 +170,7 @@
 
 
 ### § 8a Vote of No Confidence & Removal from Office
+
 1. A board member may be removed from office by the general assembly via a vote of no confidence with a 2/3 majority.
 
 2. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; the member is not authorized to represent the association until the procedure is concluded.
@@ -166,12 +179,14 @@
 
 
 ### § 9 Dissolution and Allocation of Assets
+
 1. Dissolution may only be resolved by the general assembly or by circulation resolution with a 4/5 majority.
 
 2. In the event of dissolution, annulment, or loss of charitable status, the association’s assets shall fall to a legal entity under public law or another charitable organization for use in promoting the purposes named in § 2 para. 1 within the meaning of the German Fiscal Code.
 
 
 ### § 10 Regulations and Orders
+
 1. The general assembly may issue supplementary orders.
 
 2. These may not contradict the statutes and are binding for all members.

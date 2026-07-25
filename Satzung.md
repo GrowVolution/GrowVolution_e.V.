@@ -15,6 +15,7 @@
 
 
 ### § 1 Name, Sitz, Geschäftsjahr
+
 1. Der Verein führt den Namen „GrowVolution“.
 
 2. Er soll in das Vereinsregister eingetragen werden und führt nach der Eintragung den Zusatz „e.V.“.
@@ -25,6 +26,7 @@
 
 
 ### § 2 Zweck des Vereins
+
 1. Zweck des Vereins ist:
    - die Förderung der Erziehung, Volks- und Berufsbildung, einschließlich der Studentenhilfe,
    - die Förderung der Entwicklungszusammenarbeit,
@@ -58,6 +60,7 @@
 
 
 ### § 2a Mittelverwendung
+
 1. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
 
 2. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
@@ -66,10 +69,12 @@
 
 
 ### § 2b Verbot der Begünstigung
+
 1. Es darf keine Person durch dem Zweck fremde Ausgaben oder unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 
 ### § 3 Mitgliedschaft
+
 1. Mitglied kann jede natürliche oder juristische Person werden, die die Ziele des Vereins unterstützt.
 
 2. Der Aufnahmeantrag kann schriftlich oder in Text-/Elektronikform gestellt werden.
@@ -82,12 +87,14 @@
 
 
 ### § 4 Beiträge
+
 1. Die Mitglieder leisten freiwillige Beiträge nach einem von der Mitgliederversammlung beschlossenen Beitragsmodell.
 
 2. Die Zahlung kann digital oder klassisch per Überweisung erfolgen.
 
 
 ### § 5 Organe
+
 1. Organe des Vereins sind:
    - die Mitgliederversammlung (in Präsenz, hybrid oder virtuell),
    - der Mitgliederrat,
@@ -95,6 +102,7 @@
 
 
 ### § 5a Dezentrale Organisation und Hierarchieabbau
+
 1. Der Verein organisiert sich dezentral in Arbeitskreisen und Projekten. Delegation begründet keine hierarchische Überordnung; sie ist ein Mandat mit Berichtspflicht gegenüber der Mitgliederversammlung.
 
 2. Transparenz und Rechenschaft erfolgen über geeignete digitale und analoge Dokumentationswege.
@@ -103,6 +111,7 @@
 
 
 ### § 6 Mitgliederversammlung
+
 1. Die Mitgliederversammlung kann als Präsenz-, Hybrid- oder Online-Versammlung durchgeführt werden.
 
 2. Einladung mit Frist von zwei Wochen per E-Mail/Plattformbenachrichtigung oder postalisch; Tagesordnung wird im Mitgliederbereich oder per Schreiben bekannt gegeben.
@@ -115,6 +124,7 @@
 
 
 ### § 6a Beschlüsse außerhalb einer Versammlung (Umlaufverfahren)
+
 1. Unabhängig von § 6 können Beschlüsse ohne Versammlung im Umlaufverfahren gefasst werden – postalisch oder in Text-/Elektronikform.
 
 2. Die Identitäts- und Willensbestätigung erfolgt nach § 6 Abs. 5.
@@ -129,6 +139,7 @@
 
 
 ### § 7 Mitgliederrat
+
 1. Der Mitgliederrat ist ein optionales Organ des Vereins; seine Mitglieder werden durch ein elektronisches Auslosungsverfahren bestimmt.
 
 2. Er kann bei größeren Angelegenheiten, die eine schnelle Entscheidung erfordern, vom Vorstand herangezogen werden, um in Vertretung für die Mitgliederversammlung eine Entscheidung zu treffen.
@@ -137,6 +148,7 @@
 
 
 ### § 8 Vorstand
+
 1. Der Vorstand besteht aus 3 Mitgliedern:
    - 1\. Vorsitzender
    - 2\. Vorsitzender
@@ -158,6 +170,7 @@
 
 
 ### § 8a Misstrauensvotum & Amtsenthebung
+
 1. Ein Vorstandsmitglied kann durch die Mitgliederversammlung via Misstrauensvotum mit einer 2/3-Mehrheit aus seinem Amt enthoben werden.
 
 2. Bei Initiation eines Misstrauensvotums wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; das Mitglied ist bis zum Abschluss des Verfahrens nicht vertretungsbefugt.
@@ -166,12 +179,14 @@
 
 
 ### § 9 Auflösung und Vermögensbindung
+
 1. Die Auflösung kann nur durch Mitgliederversammlung oder Umlaufbeschluss mit 4/5-Mehrheit beschlossen werden.
 
 2. Bei Auflösung oder Aufhebung oder Wegfall steuerbegünstigter Zwecke fällt das Vermögen an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft für die Verwendung der in § 2 Abs. 1 genannten Zwecke im Sinne der AO.
 
 
 ### § 10 Regelwerke und Ordnungen
+
 1. Die Mitgliederversammlung kann ergänzende Ordnungen beschließen.
 
 2. Diese dürfen der Satzung nicht widersprechen und gelten verbindlich für alle Mitglieder.

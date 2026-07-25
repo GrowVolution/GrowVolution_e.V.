@@ -17,7 +17,7 @@
 ### § 1 Name, Registered Office, Financial Year
 1. The association bears the name “GrowVolution”.
 
-2. It shall be entered into the register of associations and will thereafter bear the suffix “e. V.”.
+2. It shall be entered into the register of associations and will thereafter bear the suffix “e.V.”.
 
 3. The registered office of the association is Braunschweig.
 
@@ -137,17 +137,14 @@
 
 
 ### § 8 Board
-1. The board consists of at least 2 and at most 6 members:
+1. The board consists of 3 members:
    - 1st chairperson
    - 2nd chairperson
-   - treasurer (optional)
-   - secretary (optional)
-   - data-protection officer (optional)
-   - permanent representative (optional)
+   - deputy
 
-2. Election by the general assembly for three years; re-election permitted. The board remains in office until a new election takes place.
+2. Election by the general assembly for three years; maximum of 2 terms per position. The board remains in office until a new election takes place.
 
-3. The association is represented in and out of court jointly by the first and second board members (§ 26 German Civil Code). The general assembly may elect a permanent representative who is authorized to represent the association in place of the first or second board member.
+3. All board members are authorized to represent the association pursuant to § 26 German Civil Code; representation always requires 2 board members acting jointly.
 
 4. The board represents and coordinates ongoing operations, prepares resolution proposals, initiates voting processes, and implements members’ resolutions.
 
@@ -155,19 +152,17 @@
 
 6. Offices are honorary; reimbursement of expenses is permissible. Remuneration requires a 2/3 majority of the general assembly and must be reasonable.
 
-7. Board members may resign at any time; however, they are obligated to inform the general assembly in due time.
+7. Board members may resign at any time. However, they remain in office until their position is filled anew.
 
-8. If a board position becomes vacant during a term, the general assembly is obligated to elect a replacement for the remainder of the term; if the required minimum number of board members is not undercut, the general assembly may decide not to fill the vacant position.
-
-9. Further details are regulated by a board order.
+8. Further details are regulated by a board order.
 
 
 ### § 8a Vote of No Confidence & Removal from Office
-1. A board member may be removed from office by a 2/3 majority vote of no confidence by the general assembly.
+1. A board member may be removed from office by the general assembly via a vote of no confidence with a 2/3 majority.
 
-2. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; should this impair the regular operation of the association, the position shall be represented for the duration of the suspension by a substitute appointed by the general assembly.
+2. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; the member is not authorized to represent the association until the procedure is concluded.
 
-3. If the vote is successful, § 8 para. 8 of the statutes applies.
+3. If the vote is successful, the position must be filled anew without delay.
 
 
 ### § 9 Dissolution and Allocation of Assets

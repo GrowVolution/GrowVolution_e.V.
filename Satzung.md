@@ -17,7 +17,7 @@
 ### § 1 Name, Sitz, Geschäftsjahr
 1. Der Verein führt den Namen „GrowVolution“.
 
-2. Er soll in das Vereinsregister eingetragen werden und führt nach der Eintragung den Zusatz „e. V.“.
+2. Er soll in das Vereinsregister eingetragen werden und führt nach der Eintragung den Zusatz „e.V.“.
 
 3. Sitz des Vereins ist Braunschweig.
 
@@ -137,17 +137,14 @@
 
 
 ### § 8 Vorstand
-1. Der Vorstand besteht aus mindestens 2 und maximal 6 Mitgliedern:
+1. Der Vorstand besteht aus 3 Mitgliedern:
    - 1\. Vorsitzender
    - 2\. Vorsitzender
-   - Kassenwart (optional)
-   - Schriftführer (optional)
-   - Datenschutzbeauftragter (optional)
-   - ständige Vertretung (optional)
+   - Stellvertreter
 
-2. Wahl durch die Mitgliederversammlung für drei Jahre; Wiederwahl zulässig. Der Vorstand bleibt bis zur Neuwahl im Amt.
+2. Wahl durch die Mitgliederversammlung für drei Jahre; maximal 2 Amtszeiten pro Posten. Der Vorstand bleibt bis zur Neuwahl im Amt.
 
-3. Vertretung des Vereins gerichtlich und außergerichtlich durch den 1. und 2. Vorstand gemeinsam (§ 26 BGB). Die Mitgliederversammlung kann eine ständige Vertretung wählen, die anstelle des 1. oder 2. Vorstandes vertretungsberechtigt ist.
+3. Alle Vorstandsmitglieder sind vertretungsberechtigt gemäß § 26 BGB; Vertretung immer durch 2 Vorstandsmitglieder gemeinsam.
 
 4. Der Vorstand repräsentiert und koordiniert die laufenden Geschäfte, bereitet Beschlussvorlagen vor, initiiert Abstimmungen und setzt Mitgliederbeschlüsse um.
 
@@ -155,19 +152,17 @@
 
 6. Die Ämter sind ehrenamtlich; Auslagenersatz ist zulässig. Vergütungen bedürfen eines 2/3-Beschlusses der Mitgliederversammlung und müssen angemessen sein.
 
-7. Vorstandsmitglieder haben jederzeit das Recht abzudanken; sie sind jedoch verpflichtet, die Mitgliederversammlung rechtzeitig über eine solche Entscheidung in Kenntnis zu setzen.
+7. Vorstandsmitglieder haben jederzeit das Recht abzudanken. Sie bleiben jedoch bis zur Neubesetzung ihres Postens im Amt.
 
-8. Wird während einer Amtsperiode ein Vorstandsposten frei, ist die Mitgliederversammlung verpflichtet, für die restliche Amtszeit einen Ersatz zu wählen; sollte die erforderliche Anzahl an Vorstandsmitgliedern nicht unterschritten werden, so kann die Mitgliederversammlung sich gegen eine Neubesetzung des Postens entscheiden.
-
-9. Genaueres regelt eine Vorstandsordnung.
+8. Genaueres regelt eine Vorstandsordnung.
 
 
 ### § 8a Misstrauensvotum & Amtsenthebung
-1. Ein Vorstandsmitglied kann durch die Mitgliederversammlung über ein Misstrauensvotum mit einer 2/3-Mehrheit aus seinem Amt enthoben werden.
+1. Ein Vorstandsmitglied kann durch die Mitgliederversammlung via Misstrauensvotum mit einer 2/3-Mehrheit aus seinem Amt enthoben werden.
 
-2. Bei Initiation eines Misstrauensvotums wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; sollte dadurch der reguläre Betrieb des Vereins beeinträchtigt werden, so wird der Posten für die Dauer der Freistellung von einem von der Mitgliederversammlung bestimmten Ersatz vertreten.
+2. Bei Initiation eines Misstrauensvotums wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; das Mitglied ist bis zum Abschluss des Verfahrens nicht vertretungsbefugt.
 
-3. Ist das Votum erfolgreich, wird gemäß § 8 Abs. 8 der Satzung verfahren.
+3. Ist das Votum erfolgreich, so ist der Posten umgehend neu zu besetzen.
 
 
 ### § 9 Auflösung und Vermögensbindung

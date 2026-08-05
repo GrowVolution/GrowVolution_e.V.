@@ -86,6 +86,17 @@
 5. Membership ends upon resignation, expulsion, or death. Resignation may be declared in writing or electronically.
 
 
+### § 3a Expulsion
+
+1. A member may be expelled if they act contrary to the purposes or values of the association, materially breach obligations under the statutes, cause significant damage to the reputation of the association, or endanger the safety of members or users of the association's own offerings.
+
+2. The board decides on expulsion. The member must first be given the opportunity to comment; the decision must state its reasons. The remedy under § 10a is available.
+
+3. To avert a danger to members, users, or the association, the board may, for the duration of the proceedings, order the suspension of membership rights and the blocking of access to the association's own offerings.
+
+4. Further details are regulated by the procedural order.
+
+
 ### § 4 Contributions
 
 1. Members provide voluntary contributions according to a contribution model decided by the general assembly.
@@ -109,6 +120,10 @@
 
 3. Essential decisions are always made by the members or the members’ council. The board is primarily representative and coordinating; it does not make independent fundamental or major financial or resource decisions.
 
+4. The organs and mandated bodies of the association are bound by the procedures set out in the association's orders. Decisions are not made at the discretion of individual persons but in accordance with the designated, documented procedures.
+
+5. Persons who act for the association or within its organs are obliged to maintain confidentiality regarding personal circumstances that become known to them in proceedings under the association's orders; this obligation continues beyond the end of membership or term of office. Disclosure to law enforcement and supervisory authorities remains unaffected.
+
 
 ### § 6 General Assembly
 
@@ -116,7 +131,7 @@
 
 2. Invitations must be sent with a notice period of two weeks via email/platform notification or by post; the agenda is published in the members’ area or by written notice.
 
-3. Resolutions are passed by a simple majority unless otherwise specified in these statutes.
+3. Resolutions are passed by a simple majority unless otherwise specified in these statutes or applicable law.
 
 4. The assembly is recorded in written or electronic form.
 
@@ -133,18 +148,20 @@
 
 4. If voter participation falls below one half, the resolution shall be deemed provisionally effective, and the general assembly shall be able to initiate a new vote within six months after the announcement of the resolution. The result of the second vote shall be considered a valid resolution regardless of the level of voter participation.
 
-5. All circulation resolutions follow the same simple majority rule as § 6 para. 3.
+5. All circulation resolutions are subject to the same majority as in § 6 para. 3.
 
 6. The result is announced to the members in text or electronic form and documented.
 
 
 ### § 7 Members’ Council
 
-1. The members’ council is an optional organ of the association; its members are determined by an electronic lottery procedure.
+1. The members’ council is convened on an as-needed basis; its members are determined from among the members by an electronic lottery procedure.
 
-2. It may be consulted by the board for major matters requiring quick decisions, acting on behalf of the general assembly.
+2. Acting on behalf of the general assembly, it decides on matters submitted to it by the board due to urgency, as well as on remedies against resolutions and measures of the organs and mandated bodies. The general assembly may take over a decision itself; this does not apply to proceedings concerning the conduct of individual persons.
 
-3. Further details are regulated by a members’ council order.
+3. The members’ council is independent and not bound by instructions in its decisions. Persons involved in the respective matter and board members are excluded from the lottery.
+
+4. Further details are regulated by a members’ council order.
 
 
 ### § 8 Board
@@ -187,8 +204,29 @@
 
 ### § 10 Regulations and Orders
 
-1. The general assembly may issue supplementary orders.
+1. To give further shape to these statutes, the general assembly may issue, amend, and repeal supplementary association orders. The permissible subject matter of association orders is limited to:
+   - the prioritization, organization, and coordination of the fulfillment of the association’s purpose (purpose order),
+   - the contribution model under § 4 and the administration of the association’s finances,
+   - the further elaboration of the rights and obligations of members established in these statutes,
+   - the conduct of internal association proceedings, the internal association remedies, and documentation (procedural order),
+   - the composition, convening, and working procedures of the members’ council (members’ council order),
+   - the working procedures and allocation of responsibilities of the board (board order),
+   - the establishment, management, and dissolution of working groups and projects, as well as the granting, design, and revocation of mandates,
+   - the handling of personal data and the use of the association’s own infrastructure.
 
-2. These may not contradict the statutes and are binding for all members.
+2. Association orders are not part of the statutes and may not contradict them; in case of doubt, the statutes prevail. They may not establish obligations or withdraw rights that are not already established in these statutes.
 
-3. Issuing or amending association orders requires a 2/3 majority.
+3. Association orders are binding on the members, the organs of the association, and the bodies mandated by it. They apply to other persons only insofar as such persons have been contractually bound by them.
+
+4. Issuing, amending, and repealing association orders requires a majority of 2/3 of the votes cast. The version currently in force must be made permanently accessible to members.
+
+
+### § 10a Internal Legal Recourse
+
+1. Persons affected by resolutions and measures of the organs and mandated bodies have access to the remedies set out in the procedural order.
+
+2. These remedies must be exhausted before resorting to the state courts, insofar as this is reasonable for the affected person. Proceedings for interim legal protection remain unaffected; further exceptions are determined by the procedural order.
+
+3. If no decision is issued on a remedy within the period specified in the procedural order, it is deemed rejected and recourse to the state courts is available. The period may not exceed three months.
+
+4. Where data within the meaning of Articles 9 or 10 of Regulation (EU) 2016/679 is processed in a proceeding, the remedy shall, at the request of the affected person, be decided by an external person previously designated by the general assembly who is bound to professional confidentiality.

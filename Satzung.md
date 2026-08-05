@@ -86,6 +86,17 @@
 5. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod. Der Austritt kann schriftlich oder elektronisch erklärt werden.
 
 
+### § 3a Ausschluss
+
+1. Ein Mitglied kann ausgeschlossen werden, wenn es den Zwecken oder Werten des Vereins zuwiderhandelt, satzungsmäßige Pflichten erheblich verletzt, dem Ansehen des Vereins erheblichen Schaden zufügt oder die Sicherheit von Mitgliedern oder Nutzern vereinseigener Angebote gefährdet.
+
+2. Über den Ausschluss entscheidet der Vorstand. Dem Mitglied ist zuvor Gelegenheit zur Stellungnahme zu geben; die Entscheidung ist zu begründen. Der Rechtsbehelf nach § 10a steht offen.
+
+3. Zur Abwehr einer Gefahr für Mitglieder, Nutzer oder den Verein kann der Vorstand für die Dauer des Verfahrens das Ruhen der Mitgliedsrechte und die Sperrung des Zugangs zu vereinseigenen Angeboten anordnen.
+
+4. Das Nähere regelt die Verfahrensordnung.
+
+
 ### § 4 Beiträge
 
 1. Die Mitglieder leisten freiwillige Beiträge nach einem von der Mitgliederversammlung beschlossenen Beitragsmodell.
@@ -109,6 +120,10 @@
 
 3. Essenzielle Entscheidungen werden stets durch die Mitglieder oder den Mitgliederrat getroffen. Der Vorstand ist intern vornehmlich repräsentativ und koordinierend; er trifft keine eigenständigen Grundsatz-, sowie größere Finanz- oder Ressourcenentscheidungen.
 
+4. Die Organe und mandatierten Stellen des Vereins sind an die in den Vereinsordnungen festgelegten Verfahren gebunden. Entscheidungen ergehen nicht nach dem Ermessen einzelner Personen, sondern nach den dafür vorgesehenen, dokumentierten Verfahren.
+
+5. Personen, die für den Verein oder in seinen Organen tätig sind, sind über personenbezogene Umstände, die ihnen in Verfahren nach den Vereinsordnungen bekannt werden, zur Verschwiegenheit verpflichtet; dies gilt über das Ende der Mitgliedschaft oder des Amtes hinaus. Die Weitergabe an Strafverfolgungs- und Aufsichtsbehörden bleibt unberührt.
+
 
 ### § 6 Mitgliederversammlung
 
@@ -116,7 +131,7 @@
 
 2. Einladung mit Frist von zwei Wochen per E-Mail/Plattformbenachrichtigung oder postalisch; Tagesordnung wird im Mitgliederbereich oder per Schreiben bekannt gegeben.
 
-3. Beschlüsse werden mit einfacher Mehrheit gefasst, sofern diese Satzung nichts anderes vorsieht.
+3. Beschlüsse werden mit einfacher Mehrheit gefasst, sofern diese Satzung oder geltendes Recht nichts anderes vorsehen.
 
 4. Die Versammlung wird schriftlich oder elektronisch protokolliert.
 
@@ -133,18 +148,20 @@
 
 4. Fällt die Stimmbeteiligung unter 1/2, so gilt der Beschluss als schwebend wirksam und die Mitgliederversammlung hat die Möglichkeit, binnen 6 Monaten nach Bekanntgabe des Beschlusses eine erneute Abstimmung zu initiieren. Das Ergebnis der zweiten Abstimmung gilt unabhängig von der Stimmbeteiligung als wirksamer Beschluss.
 
-5. Für alle Umlaufbeschlüsse gilt dieselbe einfache Mehrheit wie in § 6 Abs. 3.
+5. Für alle Umlaufbeschlüsse gilt dieselbe Mehrheit wie in § 6 Abs. 3.
 
 6. Das Ergebnis wird den Mitgliedern in Text- oder Elektronikform bekannt gegeben und protokolliert.
 
 
 ### § 7 Mitgliederrat
 
-1. Der Mitgliederrat ist ein optionales Organ des Vereins; seine Mitglieder werden durch ein elektronisches Auslosungsverfahren bestimmt.
+1. Der Mitgliederrat wird anlassbezogen besetzt; seine Mitglieder werden durch ein elektronisches Auslosungsverfahren aus dem Kreis der Mitglieder bestimmt.
 
-2. Er kann bei größeren Angelegenheiten, die eine schnelle Entscheidung erfordern, vom Vorstand herangezogen werden, um in Vertretung für die Mitgliederversammlung eine Entscheidung zu treffen.
+2. Er entscheidet in Vertretung der Mitgliederversammlung über Angelegenheiten, die ihm der Vorstand wegen Eilbedürftigkeit vorlegt, sowie über Rechtsbehelfe gegen Beschlüsse und Maßnahmen der Organe und mandatierten Stellen. Die Mitgliederversammlung kann eine Entscheidung an sich ziehen; dies gilt nicht in Verfahren, die das Verhalten einzelner Personen zum Gegenstand haben.
 
-3. Genaueres regelt eine Mitgliederratsordnung.
+3. Der Mitgliederrat ist in seinen Entscheidungen weisungsfrei. Am jeweiligen Vorgang beteiligte Personen und Vorstandsmitglieder sind von der Auslosung ausgeschlossen.
+
+4. Genaueres regelt eine Mitgliederratsordnung.
 
 
 ### § 8 Vorstand
@@ -187,8 +204,29 @@
 
 ### § 10 Regelwerke und Ordnungen
 
-1. Die Mitgliederversammlung kann ergänzende Ordnungen beschließen.
+1. Die Mitgliederversammlung kann zur Ausgestaltung dieser Satzung ergänzende Vereinsordnungen erlassen, ändern und aufheben. Zulässiger Gegenstand von Vereinsordnungen sind ausschließlich:
+   - die Priorisierung, Organisation und Koordination der Zweckverwirklichung (Zweckordnung),
+   - das Beitragsmodell nach § 4 und die Verwaltung der Vereinsfinanzen,
+   - die nähere Ausgestaltung der in dieser Satzung angelegten Rechte und Pflichten der Mitglieder,
+   - der Ablauf vereinsinterner Verfahren, die vereinsinternen Rechtsbehelfe und die Dokumentation (Verfahrensordnung),
+   - Besetzung, Einberufung und Arbeitsweise des Mitgliederrats (Mitgliederratsordnung),
+   - Arbeitsweise und Geschäftsverteilung des Vorstands (Vorstandsordnung),
+   - Gründung, Führung und Auflösung von Arbeitskreisen und Projekten sowie Erteilung, Ausgestaltung und Widerruf von Mandaten,
+   - der Umgang mit personenbezogenen Daten und die Nutzung vereinseigener Infrastruktur.
 
-2. Diese dürfen der Satzung nicht widersprechen und gelten verbindlich für alle Mitglieder.
+2. Vereinsordnungen sind nicht Bestandteil der Satzung und dürfen ihr nicht widersprechen; im Zweifel gilt die Satzung. Sie dürfen keine Pflichten begründen und keine Rechte entziehen, die nicht in dieser Satzung angelegt sind.
 
-3. Der Erlass und die Änderung von Vereinsordnungen erfordern einen 2/3-Mehrheitsbeschluss.
+3. Vereinsordnungen gelten verbindlich für die Mitglieder, die Organe des Vereins und die von ihm mandatierten Stellen. Gegenüber sonstigen Personen gelten sie nur, soweit sie vertraglich einbezogen wurden.
+
+4. Erlass, Änderung und Aufhebung erfordern eine Mehrheit von 2/3 der abgegebenen Stimmen. Die jeweils geltende Fassung ist den Mitgliedern dauerhaft zugänglich zu machen.
+
+
+### § 10a Vereinsinterner Rechtsweg
+
+1. Gegen Beschlüsse und Maßnahmen der Organe und mandatierten Stellen stehen den Betroffenen die in der Verfahrensordnung geregelten Rechtsbehelfe zu.
+
+2. Vor Anrufung der staatlichen Gerichte sind diese Rechtsbehelfe auszuschöpfen, soweit dies dem Betroffenen zumutbar ist. Verfahren des einstweiligen Rechtsschutzes bleiben unberührt; weitere Ausnahmen bestimmt die Verfahrensordnung.
+
+3. Ergeht über einen Rechtsbehelf nicht innerhalb der in der Verfahrensordnung bestimmten Frist eine Entscheidung, gilt er als zurückgewiesen und der staatliche Rechtsweg ist eröffnet. Die Frist darf drei Monate nicht überschreiten.
+
+4. Werden in einem Verfahren Daten im Sinne der Artikel 9 oder 10 der Verordnung (EU) 2016/679 verarbeitet, entscheidet über den Rechtsbehelf auf Antrag des Betroffenen eine vorab von der Mitgliederversammlung benannte externe Person, die kraft Berufs zur Verschwiegenheit verpflichtet ist.

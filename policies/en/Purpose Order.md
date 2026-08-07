@@ -1,9 +1,9 @@
-<h1 align="center">Purpose Policy</h1>
+<h1 align="center">Purpose Order</h1>
 
 
-### § 1 Purpose of the Purpose Policy
+### § 1 Purpose of the Purpose Order
 
-1. This purpose policy governs the internal prioritization and concrete implementation of the tax-privileged purposes set out in § 2 para. 1 of the statutes.
+1. This purpose order governs the internal prioritization and concrete implementation of the tax-privileged purposes set out in § 2 para. 1 of the statutes.
 
 2. It serves the gradual and realistic development of the association’s activities, taking into account the available resources.
 
@@ -78,6 +78,6 @@
 
 ### § 9 Entry into Force and Amendments
 
-1. This purpose policy, as well as any amendments, enters into force upon resolution by the general assembly.
+1. This purpose order, as well as any amendments, enters into force upon resolution by the general assembly.
 
 2. It may be amended within the framework of the statutes to respond to internal and external developments.

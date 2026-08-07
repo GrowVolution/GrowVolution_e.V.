@@ -1,9 +1,9 @@
-<h1 align="center">Data Protection Policy</h1>
+<h1 align="center">Privacy Protection Order</h1>
 
 
 ### § 1 Introduction
 
-1. This policy governs the handling of personal data by the association. Personal data refers to all data by which a natural person can be identified.
+1. This order governs the handling of personal data by the association. Personal data refers to all data by which a natural person can be identified.
 
 2. The controller responsible for data processing within the meaning of the General Data Protection Regulation (GDPR) is the association, represented by the board in accordance with § 26 BGB.
 
@@ -39,7 +39,7 @@
 
 1. The processing of personal data in the context of external services is governed by separate privacy policies.
 
-2. Where more specific provisions exist, they take precedence over this policy.
+2. Where more specific provisions exist, they take precedence over this order.
 
 3. If processing is carried out by external service providers, this is done on the basis of a data processing agreement in accordance with Art. 28 GDPR.
 
@@ -95,6 +95,6 @@
 
 ### § 8 Entry into Force and Amendments
 
-1. This data protection policy, as well as any amendments, enters into force upon resolution by the general assembly.
+1. This privacy protection order, as well as any amendments, enters into force upon resolution by the general assembly.
 
 2. It may be amended within the framework of the statutes to respond to internal and external developments.

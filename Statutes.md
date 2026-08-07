@@ -2,11 +2,11 @@
 
 <h3>Preamble</h3>
 <p align="justify">
-  Born from a deep dissatisfaction with the state of our world and arising from a time of alienation – an alienation from ourselves, from one another, and from nature,
-  this association shall forever serve as a light in the darkness for humanity.<br><br>
-  The members of this association have come together to take joint responsibility for their lives and their community, creating a framework in which they have the opportunity to grow beyond themselves freely
+  Born from a deep dissatisfaction with the state of our world and from a time of alienation – alienation from ourselves, from one another, and from nature –,
+  this association shall forever be a light in the darkness for humanity.<br><br>
+  The members of this association have come together to take joint responsibility for their lives and their community, and to create a framework in which they have the opportunity to grow beyond themselves, freely
   and independently. They recognize their own role in the events of this world and thereby voluntarily commit themselves to serving a greater whole.<br><br>
-  We now direct the raised finger back at ourselves and release our old judgment. For we are human, and as humans, we are fallible. With this admission, we allow ourselves to design structures
+  We now turn the raised finger back on ourselves and let go of our old judgment. For we are human – and as humans, fallible. With this admission, we allow ourselves to design structures
   that cushion our own fallibility.
 </p>
 <p align="center">
@@ -157,7 +157,7 @@
 
 1. The members’ council is convened on an as-needed basis; its members are determined from among the members by an electronic lottery procedure.
 
-2. Acting on behalf of the general assembly, it decides on matters submitted to it by the board due to urgency, as well as on remedies against resolutions and measures of the organs and mandated bodies. The general assembly may take over a decision itself; this does not apply to proceedings concerning the conduct of individual persons.
+2. Acting on behalf of the general assembly, it decides on matters submitted to it by the board due to urgency, and, as an independent body, on requests to initiate a vote of no confidence, as well as on remedies against resolutions and measures of the organs and mandated bodies. The general assembly may take over a decision itself; this does not apply to proceedings concerning the conduct of individual persons, or to decisions on requests within the meaning of § 8a para. 2 of these statutes.
 
 3. The members’ council is independent and not bound by instructions in its decisions. Persons involved in the respective matter and board members are excluded from the lottery.
 
@@ -190,9 +190,11 @@
 
 1. A board member may be removed from office by the general assembly via a vote of no confidence with a 2/3 majority.
 
-2. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; the member is not authorized to represent the association until the procedure is concluded.
+2. The initiation of a vote of no confidence must be requested from the members’ council. For the vote to proceed to a ballot and for the relief of duties under § 8a para. 3 to take effect, the members’ council must approve the request for initiation by simple majority.
 
-3. If the vote is successful, the position must be filled anew without delay.
+3. When a vote of no confidence is initiated, the affected board member is temporarily relieved of their duties; the member is not authorized to represent the association until the procedure is concluded.
+
+4. If the vote is successful, the position must be filled anew without delay.
 
 
 ### § 9 Dissolution and Allocation of Assets

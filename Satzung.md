@@ -2,11 +2,11 @@
 
 <h3>Präambel</h3>
 <p align="justify">
-  Geboren aus einer tiefen Unzufriedenheit mit dem Zustand unserer Welt und stammend aus einer Zeit der Entfremdung – einer Entfremdung von uns selbst, voneinander und von der Natur,
+  Geboren aus einer tiefen Unzufriedenheit mit dem Zustand unserer Welt und aus einer Zeit der Entfremdung – einer Entfremdung von uns selbst, voneinander und von der Natur –,
   soll dieser Verein dem Menschen auf ewig ein Licht in der Dunkelheit sein.<br><br>
-  So haben sich die Mitglieder dieses Vereins zusammengefunden, um gemeinsam Verantwortung für ihr Leben und die Gemeinschaft zu übernehmen und einen Rahmen zu erschaffen, in dem sie die Chance haben, frei und
-  unabhängig über sich hinauswachsen zu können. Sie erkennen ihre eigene Rolle im Geschehen dieser Welt an und verpflichten sich damit freiwillig einem größeren Ganzen zu dienen.<br><br>
-  Wir richten den erhobenen Zeigefinger nun wieder auf uns und lassen unser altes Urteil los. Denn wir sind Menschen und als Menschen fehlbar. Mit diesem Eingeständnis erlauben wir uns, Strukturen zu entwerfen,
+  So haben sich die Mitglieder dieses Vereins zusammengefunden, um gemeinsam Verantwortung für ihr Leben und ihre Gemeinschaft zu übernehmen und einen Rahmen zu schaffen, in dem sie die Möglichkeit haben, frei und
+  unabhängig über sich hinauszuwachsen. Sie erkennen ihre eigene Rolle im Geschehen dieser Welt an und verpflichten sich damit freiwillig, einem größeren Ganzen zu dienen.<br><br>
+  Wir richten den erhobenen Zeigefinger nun wieder auf uns selbst und lassen unser altes Urteil los. Denn wir sind Menschen – und als Menschen fehlbar. Mit diesem Eingeständnis erlauben wir uns, Strukturen zu entwerfen,
   die unsere eigene Fehlbarkeit abfedern.
 </p>
 <p align="center">
@@ -157,7 +157,7 @@
 
 1. Der Mitgliederrat wird anlassbezogen besetzt; seine Mitglieder werden durch ein elektronisches Auslosungsverfahren aus dem Kreis der Mitglieder bestimmt.
 
-2. Er entscheidet in Vertretung der Mitgliederversammlung über Angelegenheiten, die ihm der Vorstand wegen Eilbedürftigkeit vorlegt, sowie über Rechtsbehelfe gegen Beschlüsse und Maßnahmen der Organe und mandatierten Stellen. Die Mitgliederversammlung kann eine Entscheidung an sich ziehen; dies gilt nicht in Verfahren, die das Verhalten einzelner Personen zum Gegenstand haben.
+2. Er entscheidet in Vertretung der Mitgliederversammlung über Angelegenheiten, die ihm der Vorstand wegen Eilbedürftigkeit vorlegt, als unabhängige Instanz über Anträge zur Initiation eines Misstrauensvotums sowie über Rechtsbehelfe gegen Beschlüsse und Maßnahmen der Organe und mandatierten Stellen. Die Mitgliederversammlung kann eine Entscheidung an sich ziehen; dies gilt nicht in Verfahren, die das Verhalten einzelner Personen zum Gegenstand haben, oder bei Entscheidungen über Anträge im Sinne des § 8a Abs. 2 dieser Satzung.
 
 3. Der Mitgliederrat ist in seinen Entscheidungen weisungsfrei. Am jeweiligen Vorgang beteiligte Personen und Vorstandsmitglieder sind von der Auslosung ausgeschlossen.
 
@@ -190,9 +190,11 @@
 
 1. Ein Vorstandsmitglied kann durch die Mitgliederversammlung via Misstrauensvotum mit einer 2/3-Mehrheit aus seinem Amt enthoben werden.
 
-2. Bei Initiation eines Misstrauensvotums wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; das Mitglied ist bis zum Abschluss des Verfahrens nicht vertretungsbefugt.
+2. Die Initiation eines Misstrauensvotums ist beim Mitgliederrat zu beantragen. Damit das Votum zur Abstimmung kommt und die Freistellung gemäß § 8a Abs. 3 erfolgt, muss dieser den Initiationsantrag mit einfacher Mehrheit anerkennen.
 
-3. Ist das Votum erfolgreich, so ist der Posten umgehend neu zu besetzen.
+3. Bei Initiation eines Misstrauensvotums wird das betroffene Vorstandsmitglied vorübergehend von seinen Aufgaben freigestellt; das Mitglied ist bis zum Abschluss des Verfahrens nicht vertretungsbefugt.
+
+4. Ist das Votum erfolgreich, so ist der Posten umgehend neu zu besetzen.
 
 
 ### § 9 Auflösung und Vermögensbindung

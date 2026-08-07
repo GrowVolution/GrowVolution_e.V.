@@ -19,6 +19,8 @@ To keep the development of our internal architecture clean, we provide a short i
 
 4. statutes – The branch where our statutes are developed. Statutes are not developed in the unadopted branch because they must be approved by a notary and adopted by the court before they can be merged into the main branch.
 
+5. cps – Development of our Certification Practice Statements. Can be merged without approval; only members of the board or the administrative unit "Digital Infrastructure" (DI) are allowed to merge from here.
+
 
 ## ℹ️ Further information
 

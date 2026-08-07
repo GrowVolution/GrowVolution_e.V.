@@ -13,6 +13,7 @@
 1. Beim Beantragen einer Mitgliedschaft werden folgende Daten erhoben:
    - vollständiger Name,
    - Anschrift,
+   - Geburtsdatum,
    - E-Mail-Adresse,
    - Telefonnummer (optional),
    - Datum und Uhrzeit des Antragseingangs,

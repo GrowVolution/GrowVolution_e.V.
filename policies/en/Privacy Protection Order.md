@@ -13,6 +13,7 @@
 1. When applying for membership, the following data is collected:
    - full name,
    - address,
+   - birthdate,
    - email address,
    - telephone number (optional),
    - date and time of the application,

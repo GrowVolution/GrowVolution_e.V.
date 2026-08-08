@@ -2,20 +2,20 @@
 
 **Signature Root CA of GrowVolution e.V. — LibreSign**
 
-|                       |                                                                                                                       |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Document type         | Certification Practice Statement                                                                                      |
-| CA operator           | GrowVolution e.V.                                                                                                     |
-| Address               | Schöninger Straße 17, 38173 Sickte, Germany                                                                           |
-| Register              | Amtsgericht Braunschweig, VR 202639                                                                                   |
-| Legal representatives | 1st Chairperson, 2nd Chairperson                                                                                      |
-| Operating unit        | Administrative unit Digital Infrastructure (DI)                                                                       |
-| CA subject            | CN = Signature Root CA, O = GrowVolution e.V., OU = Digital Infrastracuture, C = DE, ST = Lower Saxony, L = Brunswick |
-| Version               | 1.0                                                                                                                   |
-| Date                  | 2026-08-07                                                                                                            |
-| Effective from        | 2026-08-07                                                                                                            |
-| Contact               | admin@growvolution.org                                                                                                |
-| Publication           | https://github.com/GrowVolution/GrowVolution_e.V./tree/main/cps/en/libresign.md                                       |
+|                       |                                                                                                                      |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------|
+| Document type         | Certification Practice Statement                                                                                     |
+| CA operator           | GrowVolution e.V.                                                                                                    |
+| Address               | Schöninger Straße 17, 38173 Sickte, Germany                                                                          |
+| Register              | Amtsgericht Braunschweig, VR 202639                                                                                  |
+| Legal representatives | 1st Chairperson, 2nd Chairperson                                                                                     |
+| Operating unit        | Administrative unit Digital Infrastructure (DI)                                                                      |
+| CA subject            | CN = Signature Root CA, O = GrowVolution e.V., OU = Digital Infrastructure, C = DE, ST = Lower Saxony, L = Brunswick |
+| Version               | 1.0                                                                                                                  |
+| Date                  | 2026-08-07                                                                                                           |
+| Effective from        | 2026-08-07                                                                                                           |
+| Contact               | admin@growvolution.org                                                                                               |
+| Publication           | https://github.com/GrowVolution/GrowVolution_e.V./tree/main/cps/en/libresign.md                                      |
 
 > This document is a translation of the German original. In case of discrepancies, the German version at `/cps/de/libresign.md` prevails.
 
@@ -213,17 +213,17 @@ This section documents which fields and extensions the issued certificates conta
 
 ### 7.1 Root certificate
 
-| Field                    | Value                                                        |
-|--------------------------|--------------------------------------------------------------|
-| Common Name (CN)         | Signature Root CA                                            |
-| Organization (O)         | GrowVolution e.V.                                            |
-| Organizational Unit (OU) | Digital Infrastracuture, libresign-ca-id:jbi0cxmc0h_g:11_e:o |
-| Country (C)              | DE                                                           |
-| State (ST)               | Lower Saxony                                                 |
-| Locality (L)             | Brunswick                                                    |
-| Signature algorithm      | sha512WithRSAEncryption                                      |
-| Validity                 | 10 years from issuance                                       |
-| Basic Constraints        | CA:TRUE                                                      |
+| Field                    | Value                                                       |
+|--------------------------|-------------------------------------------------------------|
+| Common Name (CN)         | Signature Root CA                                           |
+| Organization (O)         | GrowVolution e.V.                                           |
+| Organizational Unit (OU) | Digital Infrastructure, libresign-ca-id:jbi0cxmc0h_g:12_e:o |
+| Country (C)              | DE                                                          |
+| State (ST)               | Lower Saxony                                                |
+| Locality (L)             | Brunswick                                                   |
+| Signature algorithm      | sha512WithRSAEncryption                                     |
+| Validity                 | 10 years from issuance                                      |
+| Basic Constraints        | CA:TRUE                                                     |
 
 ### 7.2 End-entity certificate
 

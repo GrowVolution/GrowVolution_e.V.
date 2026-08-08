@@ -2,20 +2,20 @@
 
 **Signature Root CA der GrowVolution e.V. — LibreSign**
 
-|                       |                                                                                                                       |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Dokumententyp         | Certification Practice Statement                                                                                      |
-| Betreiber der CA      | GrowVolution e.V.                                                                                                     |
-| Anschrift             | Schöninger Straße 17, 38173 Sickte, Deutschland                                                                       |
-| Registergericht       | Amtsgericht Braunschweig, VR 202639                                                                                   |
-| Vertretungsberechtigt | 1. Vorsitzender, 2. Vorsitzender                                                                                      |
-| Betreibende Stelle    | Verwaltungseinheit Digital Infrastructure (DI)                                                                        |
-| CA-Subject            | CN = Signature Root CA, O = GrowVolution e.V., OU = Digital Infrastracuture, C = DE, ST = Lower Saxony, L = Brunswick |
-| Version               | 1.0                                                                                                                   |
-| Stand                 | 07.08.2026                                                                                                            |
-| Inkrafttreten         | 07.08.2026                                                                                                            |
-| Kontakt               | admin@growvolution.org                                                                                                |
-| Veröffentlichung      | https://github.com/GrowVolution/GrowVolution_e.V./tree/main/cps/de/libresign.md                                       |
+|                       |                                                                                                                      |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------|
+| Dokumententyp         | Certification Practice Statement                                                                                     |
+| Betreiber der CA      | GrowVolution e.V.                                                                                                    |
+| Anschrift             | Schöninger Straße 17, 38173 Sickte, Deutschland                                                                      |
+| Registergericht       | Amtsgericht Braunschweig, VR 202639                                                                                  |
+| Vertretungsberechtigt | 1. Vorsitzender, 2. Vorsitzender                                                                                     |
+| Betreibende Stelle    | Verwaltungseinheit Digital Infrastructure (DI)                                                                       |
+| CA-Subject            | CN = Signature Root CA, O = GrowVolution e.V., OU = Digital Infrastructure, C = DE, ST = Lower Saxony, L = Brunswick |
+| Version               | 1.0                                                                                                                  |
+| Stand                 | 07.08.2026                                                                                                           |
+| Inkrafttreten         | 07.08.2026                                                                                                           |
+| Kontakt               | admin@growvolution.org                                                                                               |
+| Veröffentlichung      | https://github.com/GrowVolution/GrowVolution_e.V./tree/main/cps/de/libresign.md                                      |
 
 ---
 
@@ -211,17 +211,17 @@ Dieser Abschnitt dokumentiert, welche Felder und Erweiterungen die ausgestellten
 
 ### 7.1 Root-Zertifikat
 
-| Feld                     | Wert                                                         |
-|--------------------------|--------------------------------------------------------------|
-| Common Name (CN)         | Signature Root CA                                            |
-| Organization (O)         | GrowVolution e.V.                                            |
-| Organizational Unit (OU) | Digital Infrastracuture, libresign-ca-id:jbi0cxmc0h_g:11_e:o |
-| Country (C)              | DE                                                           |
-| State (ST)               | Lower Saxony                                                 |
-| Locality (L)             | Brunswick                                                    |
-| Signaturalgorithmus      | sha512WithRSAEncryption                                      |
-| Gültigkeit               | 10 Jahre ab Ausstellung                                      |
-| Basic Constraints        | CA:TRUE                                                      |
+| Feld                     | Wert                                                        |
+|--------------------------|-------------------------------------------------------------|
+| Common Name (CN)         | Signature Root CA                                           |
+| Organization (O)         | GrowVolution e.V.                                           |
+| Organizational Unit (OU) | Digital Infrastructure, libresign-ca-id:jbi0cxmc0h_g:12_e:o |
+| Country (C)              | DE                                                          |
+| State (ST)               | Lower Saxony                                                |
+| Locality (L)             | Brunswick                                                   |
+| Signaturalgorithmus      | sha512WithRSAEncryption                                     |
+| Gültigkeit               | 10 Jahre ab Ausstellung                                     |
+| Basic Constraints        | CA:TRUE                                                     |
 
 ### 7.2 Endanwenderzertifikat
 
